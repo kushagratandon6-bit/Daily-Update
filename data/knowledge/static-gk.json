@@ -1,0 +1,576 @@
+[
+ {
+  "id": "asean",
+  "title": "ASEAN",
+  "kind": "static-gk",
+  "keywords": [
+   "asean",
+   "association of southeast asian nations"
+  ],
+  "points": [
+   "Established 8 August 1967 (Bangkok Declaration)",
+   "Headquarters: Jakarta, Indonesia",
+   "Founding members: Indonesia, Malaysia, Philippines, Singapore, Thailand; later Brunei, Vietnam, Laos, Myanmar, Cambodia (10 members)",
+   "Timor-Leste was admitted as the 11th member in October 2025",
+   "India is a Sectoral Partner (1992) → Dialogue Partner (1996) → Summit-level partner (2002); 'Act East Policy' anchors ties"
+  ]
+ },
+ {
+  "id": "wto",
+  "title": "World Trade Organization (WTO)",
+  "kind": "static-gk",
+  "keywords": [
+   "wto",
+   "world trade organization",
+   "world trade organisation"
+  ],
+  "points": [
+   "Headquarters: Geneva, Switzerland",
+   "Established 1 January 1995; successor to GATT (1947)",
+   "Highest decision-making body: Ministerial Conference (meets at least every two years)",
+   "Disputes are settled by the Dispute Settlement Body; the Appellate Body has been non-functional since December 2019"
+  ]
+ },
+ {
+  "id": "un",
+  "title": "United Nations",
+  "kind": "static-gk",
+  "keywords": [
+   "united nations",
+   "un general assembly",
+   "unga",
+   "un security council",
+   "unsc",
+   "un secretary-general"
+  ],
+  "points": [
+   "Founded 24 October 1945 (UN Charter); Headquarters: New York",
+   "193 member states",
+   "Six principal organs: General Assembly, Security Council, ECOSOC, Trusteeship Council, ICJ, Secretariat",
+   "UNSC: 5 permanent members (US, UK, France, Russia, China) with veto + 10 non-permanent members elected for 2-year terms"
+  ]
+ },
+ {
+  "id": "imf",
+  "title": "International Monetary Fund (IMF)",
+  "kind": "static-gk",
+  "keywords": [
+   "imf",
+   "international monetary fund"
+  ],
+  "points": [
+   "Headquarters: Washington, D.C.",
+   "Created at the Bretton Woods Conference (1944); formally came into existence in 1945 and began financial operations in 1947",
+   "Publishes the World Economic Outlook and Global Financial Stability Report",
+   "SDR (Special Drawing Right) is its reserve asset"
+  ]
+ },
+ {
+  "id": "world-bank",
+  "title": "World Bank",
+  "kind": "static-gk",
+  "keywords": [
+   "world bank",
+   "ibrd"
+  ],
+  "points": [
+   "Headquarters: Washington, D.C.",
+   "Born at Bretton Woods (1944) as IBRD",
+   "World Bank Group: IBRD, IDA, IFC, MIGA, ICSID",
+   "Publishes the Ease of Doing Business (discontinued 2021), World Development Report, Human Capital Index"
+  ]
+ },
+ {
+  "id": "nato",
+  "title": "NATO",
+  "kind": "static-gk",
+  "keywords": [
+   "nato",
+   "north atlantic treaty organization",
+   "north atlantic treaty"
+  ],
+  "points": [
+   "Established 4 April 1949 (North Atlantic Treaty, Washington)",
+   "Headquarters: Brussels, Belgium",
+   "Article 5: collective defence — an attack on one is an attack on all",
+   "Sweden became the 32nd member in March 2024"
+  ]
+ },
+ {
+  "id": "brics",
+  "title": "BRICS",
+  "kind": "static-gk",
+  "keywords": [
+   "brics",
+   "new development bank"
+  ],
+  "points": [
+   "Originally Brazil, Russia, India, China (BRIC); South Africa joined in 2010",
+   "Expanded from 2024 to include more members (Egypt, Ethiopia, Iran, UAE; Indonesia joined in 2025)",
+   "New Development Bank (NDB) headquartered in Shanghai",
+   "India held the BRICS chair in 2016 and 2021"
+  ]
+ },
+ {
+  "id": "sco",
+  "title": "Shanghai Cooperation Organisation (SCO)",
+  "kind": "static-gk",
+  "keywords": [
+   "sco",
+   "shanghai cooperation organisation",
+   "shanghai cooperation organization"
+  ],
+  "points": [
+   "Founded 2001 in Shanghai; Secretariat in Beijing",
+   "India and Pakistan became full members in 2017",
+   "Regional Anti-Terrorist Structure (RATS) is based in Tashkent"
+  ]
+ },
+ {
+  "id": "quad",
+  "title": "QUAD",
+  "kind": "static-gk",
+  "keywords": [
+   "quad",
+   "quadrilateral security dialogue"
+  ],
+  "points": [
+   "Members: India, USA, Japan, Australia",
+   "Informal strategic forum centred on a free, open, inclusive Indo-Pacific",
+   "Leaders-level summits began in 2021"
+  ]
+ },
+ {
+  "id": "g20",
+  "title": "G20",
+  "kind": "static-gk",
+  "keywords": [
+   "g20",
+   "group of twenty"
+  ],
+  "points": [
+   "Formed 1999 after the Asian financial crisis; leaders' summits since 2008",
+   "India held the G20 Presidency in 2023 (New Delhi Leaders' Declaration)",
+   "The African Union was admitted as a permanent member at the 2023 New Delhi Summit",
+   "No permanent secretariat; presidency rotates annually (troika system)"
+  ]
+ },
+ {
+  "id": "g7",
+  "title": "G7",
+  "kind": "static-gk",
+  "keywords": [
+   "g7",
+   "group of seven"
+  ],
+  "points": [
+   "Members: Canada, France, Germany, Italy, Japan, United Kingdom, United States (EU participates)",
+   "Annual summit hosted by rotating presidency",
+   "Informal grouping; no permanent secretariat"
+  ]
+ },
+ {
+  "id": "icj",
+  "title": "International Court of Justice (ICJ)",
+  "kind": "static-gk",
+  "keywords": [
+   "icj",
+   "international court of justice",
+   "world court"
+  ],
+  "points": [
+   "Principal judicial organ of the UN; seat: The Hague (Peace Palace), Netherlands",
+   "15 judges elected for 9-year terms by the UNGA and UNSC",
+   "Decides disputes between States and gives advisory opinions; only States can be parties"
+  ]
+ },
+ {
+  "id": "icc",
+  "title": "International Criminal Court (ICC)",
+  "kind": "static-gk",
+  "keywords": [
+   "icc",
+   "international criminal court",
+   "rome statute"
+  ],
+  "points": [
+   "Seat: The Hague, Netherlands",
+   "Rome Statute adopted 1998; entered into force 1 July 2002",
+   "Tries individuals for genocide, crimes against humanity, war crimes and aggression",
+   "India is not a party to the Rome Statute; the ICC is not a UN organ"
+  ]
+ },
+ {
+  "id": "who",
+  "title": "World Health Organization (WHO)",
+  "kind": "static-gk",
+  "keywords": [
+   "who",
+   "world health organization",
+   "world health organisation"
+  ],
+  "points": [
+   "Headquarters: Geneva; constituted 7 April 1948 (World Health Day)",
+   "Specialised agency of the UN",
+   "Governing body: World Health Assembly"
+  ]
+ },
+ {
+  "id": "unesco",
+  "title": "UNESCO",
+  "kind": "static-gk",
+  "keywords": [
+   "unesco",
+   "world heritage"
+  ],
+  "points": [
+   "Headquarters: Paris; founded 1945",
+   "Maintains the World Heritage List under the 1972 World Heritage Convention",
+   "Also runs Intangible Cultural Heritage lists"
+  ]
+ },
+ {
+  "id": "ilo",
+  "title": "International Labour Organization (ILO)",
+  "kind": "static-gk",
+  "keywords": [
+   "ilo",
+   "international labour organization",
+   "international labour organisation"
+  ],
+  "points": [
+   "Headquarters: Geneva; founded 1919 (Treaty of Versailles)",
+   "Unique tripartite structure: governments, employers, workers",
+   "Became a UN specialised agency in 1946"
+  ]
+ },
+ {
+  "id": "ramsar",
+  "title": "Ramsar Convention on Wetlands",
+  "kind": "static-gk",
+  "keywords": [
+   "ramsar",
+   "wetland of international importance"
+  ],
+  "points": [
+   "Adopted 2 February 1971 in Ramsar, Iran; in force 1975",
+   "World Wetlands Day is observed on 2 February",
+   "Secretariat located in Gland, Switzerland",
+   "Montreux Record lists Ramsar sites facing ecological change (Keoladeo and Loktak are on it)"
+  ]
+ },
+ {
+  "id": "unfccc",
+  "title": "UNFCCC, Kyoto & Paris Agreement",
+  "kind": "static-gk",
+  "keywords": [
+   "unfccc",
+   "cop",
+   "cop30",
+   "cop31",
+   "paris agreement",
+   "kyoto protocol",
+   "climate summit"
+  ],
+  "points": [
+   "UNFCCC adopted 1992 (Rio Earth Summit); in force 1994; secretariat in Bonn",
+   "Kyoto Protocol 1997 — binding emission targets for developed countries",
+   "Paris Agreement adopted at COP21 (2015), in force 4 November 2016 — hold warming well below 2°C, pursue 1.5°C",
+   "Parties submit Nationally Determined Contributions (NDCs)"
+  ]
+ },
+ {
+  "id": "rbi",
+  "title": "Reserve Bank of India (RBI)",
+  "kind": "static-gk",
+  "keywords": [
+   "rbi",
+   "reserve bank of india",
+   "repo rate",
+   "monetary policy committee",
+   "mpc"
+  ],
+  "points": [
+   "Established 1 April 1935 (RBI Act, 1934); nationalised 1 January 1949; HQ Mumbai",
+   "Monetary Policy Committee: 6 members (3 from RBI, 3 external); statutory since 2016",
+   "Inflation target: 4% with a ±2% tolerance band (CPI)",
+   "Repo rate = rate at which RBI lends short-term to banks"
+  ]
+ },
+ {
+  "id": "sebi",
+  "title": "SEBI",
+  "kind": "static-gk",
+  "keywords": [
+   "sebi",
+   "securities and exchange board of india"
+  ],
+  "points": [
+   "Established 1988; statutory powers via SEBI Act, 1992; HQ Mumbai",
+   "Regulator of the securities market in India"
+  ]
+ },
+ {
+  "id": "niti",
+  "title": "NITI Aayog",
+  "kind": "static-gk",
+  "keywords": [
+   "niti aayog",
+   "planning commission"
+  ],
+  "points": [
+   "Set up 1 January 2015, replacing the Planning Commission",
+   "Chairperson: Prime Minister; policy think tank (non-statutory)",
+   "Publishes the SDG India Index, India Innovation Index, Multidimensional Poverty Index (national)"
+  ]
+ },
+ {
+  "id": "npci-upi",
+  "title": "NPCI & UPI",
+  "kind": "static-gk",
+  "keywords": [
+   "upi",
+   "npci",
+   "unified payments interface"
+  ],
+  "points": [
+   "NPCI established 2008 as umbrella entity for retail payments",
+   "UPI launched in April 2016",
+   "Also runs RuPay, IMPS, NACH, FASTag"
+  ]
+ },
+ {
+  "id": "isro",
+  "title": "ISRO",
+  "kind": "static-gk",
+  "keywords": [
+   "isro",
+   "chandrayaan",
+   "gaganyaan",
+   "aditya-l1"
+  ],
+  "points": [
+   "Established 15 August 1969; HQ Bengaluru",
+   "Chandrayaan-3 soft-landed near the lunar south pole on 23 August 2023 (observed as National Space Day)",
+   "Gaganyaan is India's human spaceflight programme"
+  ]
+ },
+ {
+  "id": "parliament",
+  "title": "Parliament of India",
+  "kind": "static-gk",
+  "keywords": [
+   "lok sabha",
+   "rajya sabha",
+   "parliament",
+   "speaker",
+   "session of parliament"
+  ],
+  "points": [
+   "Lok Sabha: maximum 550 members (543 elected currently); Rajya Sabha: maximum 250 (238 elected + 12 nominated)",
+   "President summons, prorogues, and may dissolve the Lok Sabha",
+   "Money Bills (Art. 110) can only be introduced in the Lok Sabha"
+  ]
+ },
+ {
+  "id": "supreme-court",
+  "title": "Supreme Court of India",
+  "kind": "static-gk",
+  "keywords": [
+   "supreme court",
+   "apex court",
+   "chief justice of india",
+   "cji"
+  ],
+  "points": [
+   "Inaugurated 28 January 1950; Article 124 provides for its establishment",
+   "Sanctioned strength: 34 judges (CJI + 33) since 2019",
+   "Judges retire at 65; High Court judges at 62",
+   "Article 142: complete justice; Article 32: writs for Fundamental Rights"
+  ]
+ },
+ {
+  "id": "bns",
+  "title": "New criminal codes (BNS, BNSS, BSA)",
+  "kind": "static-gk",
+  "keywords": [
+   "bharatiya nyaya sanhita",
+   "bns",
+   "bnss",
+   "bharatiya nagarik suraksha sanhita",
+   "bharatiya sakshya adhiniyam",
+   "ipc",
+   "crpc"
+  ],
+  "points": [
+   "Bharatiya Nyaya Sanhita replaced the IPC; Bharatiya Nagarik Suraksha Sanhita replaced the CrPC; Bharatiya Sakshya Adhiniyam replaced the Indian Evidence Act",
+   "All three came into force on 1 July 2024"
+  ]
+ },
+ {
+  "id": "dpdp",
+  "title": "Digital Personal Data Protection Act, 2023",
+  "kind": "static-gk",
+  "keywords": [
+   "dpdp",
+   "digital personal data protection",
+   "data protection board"
+  ],
+  "points": [
+   "Enacted August 2023 (Presidential assent 11 August 2023)",
+   "Creates the Data Protection Board of India",
+   "Rooted in the right to privacy recognised in Puttaswamy (2017)"
+  ]
+ },
+ {
+  "id": "women-reservation",
+  "title": "Women's Reservation (106th Amendment)",
+  "kind": "static-gk",
+  "keywords": [
+   "nari shakti vandan",
+   "women's reservation",
+   "106th amendment",
+   "women reservation"
+  ],
+  "points": [
+   "Constitution (106th Amendment) Act, 2023 — Nari Shakti Vandan Adhiniyam",
+   "Reserves one-third of seats in Lok Sabha and State Assemblies for women",
+   "Operationalisation is linked to the next Census and delimitation"
+  ]
+ },
+ {
+  "id": "election-commission",
+  "title": "Election Commission of India",
+  "kind": "static-gk",
+  "keywords": [
+   "election commission",
+   "chief election commissioner",
+   "cec",
+   "election commissioner"
+  ],
+  "points": [
+   "Constitutional body under Article 324; HQ New Delhi",
+   "Conducts elections to Parliament, State Legislatures, President and Vice-President",
+   "CEC & Other ECs (Appointment, Conditions of Service) Act, 2023: selection committee = PM, Leader of Opposition, a Union Cabinet Minister"
+  ]
+ },
+ {
+  "id": "nhrc",
+  "title": "NHRC",
+  "kind": "static-gk",
+  "keywords": [
+   "nhrc",
+   "national human rights commission"
+  ],
+  "points": [
+   "Statutory body under the Protection of Human Rights Act, 1993; established 12 October 1993",
+   "Chairperson is a former Chief Justice of India (or SC judge)"
+  ]
+ },
+ {
+  "id": "nalsa",
+  "title": "NALSA",
+  "kind": "static-gk",
+  "keywords": [
+   "nalsa",
+   "national legal services authority",
+   "legal aid"
+  ],
+  "points": [
+   "Constituted under the Legal Services Authorities Act, 1987",
+   "Implements Article 39A (equal justice and free legal aid)",
+   "Patron-in-Chief: CJI"
+  ]
+ },
+ {
+  "id": "cci",
+  "title": "Competition Commission of India (CCI)",
+  "kind": "static-gk",
+  "keywords": [
+   "cci",
+   "competition commission",
+   "competition act"
+  ],
+  "points": [
+   "Established under the Competition Act, 2002 (functional since 2009)",
+   "Prevents anti-competitive agreements, abuse of dominance and regulates combinations"
+  ]
+ },
+ {
+  "id": "law-commission",
+  "title": "Law Commission of India",
+  "kind": "static-gk",
+  "keywords": [
+   "law commission"
+  ],
+  "points": [
+   "Non-statutory, executive body constituted by the Government for a fixed tenure",
+   "First Law Commission (1955) was chaired by M.C. Setalvad",
+   "Recommends legal reforms to the Ministry of Law and Justice"
+  ]
+ },
+ {
+  "id": "bharat-ratna",
+  "title": "Bharat Ratna & Padma Awards",
+  "kind": "static-gk",
+  "keywords": [
+   "bharat ratna",
+   "padma vibhushan",
+   "padma bhushan",
+   "padma shri",
+   "padma awards"
+  ],
+  "points": [
+   "Both instituted in 1954",
+   "Bharat Ratna is the highest civilian honour; Padma order: Vibhushan > Bhushan > Shri",
+   "Announced around Republic Day; Article 18(1) bars titles — these are not 'titles' as per the Balaji Raghavan (1996) ruling"
+  ]
+ },
+ {
+  "id": "nobel",
+  "title": "Nobel Prizes",
+  "kind": "static-gk",
+  "keywords": [
+   "nobel prize",
+   "nobel peace",
+   "nobel"
+  ],
+  "points": [
+   "First awarded 1901; Peace Prize presented in Oslo, others in Stockholm",
+   "Economics prize (Sveriges Riksbank Prize) added in 1969",
+   "Announced every October; presented 10 December"
+  ]
+ },
+ {
+  "id": "project-tiger",
+  "title": "Project Tiger & NTCA",
+  "kind": "static-gk",
+  "keywords": [
+   "tiger reserve",
+   "project tiger",
+   "ntca",
+   "tiger census"
+  ],
+  "points": [
+   "Project Tiger launched 1973",
+   "National Tiger Conservation Authority (NTCA) is statutory (Wildlife (Protection) Amendment, 2006)",
+   "Tiger estimation is conducted every 4 years"
+  ]
+ },
+ {
+  "id": "constitution-bodies",
+  "title": "Constitutional offices (quick table)",
+  "kind": "static-gk",
+  "keywords": [
+   "attorney general",
+   "comptroller and auditor general",
+   "cag",
+   "governor",
+   "finance commission",
+   "upsc"
+  ],
+  "points": [
+   "Attorney General – Art. 76; CAG – Art. 148; Governor – Art. 153; Finance Commission – Art. 280; UPSC – Art. 315; Election Commission – Art. 324"
+  ]
+ }
+]

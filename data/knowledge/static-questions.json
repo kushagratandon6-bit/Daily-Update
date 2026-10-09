@@ -1,0 +1,935 @@
+[
+ {
+  "id": "sq001",
+  "question": "Where is the headquarters of the World Trade Organization (WTO)?",
+  "options": [
+   "Geneva",
+   "New York",
+   "Washington, D.C.",
+   "Paris"
+  ],
+  "answer": 0,
+  "explanation": "The WTO is headquartered in Geneva, Switzerland; it replaced GATT on 1 January 1995.",
+  "difficulty": "easy",
+  "category": "international",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq002",
+  "question": "The ASEAN secretariat is located in which city?",
+  "options": [
+   "Bangkok",
+   "Jakarta",
+   "Singapore",
+   "Kuala Lumpur"
+  ],
+  "answer": 1,
+  "explanation": "ASEAN's headquarters is in Jakarta, Indonesia. ASEAN was founded in Bangkok in 1967.",
+  "difficulty": "easy",
+  "category": "international",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq003",
+  "question": "Which of the following is NOT a permanent member of the UN Security Council?",
+  "options": [
+   "France",
+   "China",
+   "India",
+   "Russia"
+  ],
+  "answer": 2,
+  "explanation": "The P5 are the US, UK, France, Russia and China. India is not a permanent member.",
+  "difficulty": "easy",
+  "category": "international",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq004",
+  "question": "The International Court of Justice is located at:",
+  "options": [
+   "Geneva",
+   "Brussels",
+   "The Hague",
+   "Vienna"
+  ],
+  "answer": 2,
+  "explanation": "The ICJ sits in the Peace Palace, The Hague. It is the principal judicial organ of the UN.",
+  "difficulty": "easy",
+  "category": "international",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq005",
+  "question": "How many judges does the ICJ have, and for what term are they elected?",
+  "options": [
+   "9 judges, 5 years",
+   "15 judges, 9 years",
+   "12 judges, 6 years",
+   "15 judges, 5 years"
+  ],
+  "answer": 1,
+  "explanation": "15 judges are elected for nine-year terms by the UN General Assembly and Security Council.",
+  "difficulty": "medium",
+  "category": "international",
+  "exam": [
+   "nlsat",
+   "aiat"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq006",
+  "question": "The Rome Statute established which institution?",
+  "options": [
+   "International Court of Justice",
+   "International Criminal Court",
+   "Permanent Court of Arbitration",
+   "International Tribunal for the Law of the Sea"
+  ],
+  "answer": 1,
+  "explanation": "The Rome Statute (1998; in force 2002) created the ICC. India is not a party to it.",
+  "difficulty": "medium",
+  "category": "international",
+  "exam": [
+   "nlsat",
+   "aiat"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq007",
+  "question": "The Ramsar Convention was adopted in which year?",
+  "options": [
+   "1962",
+   "1971",
+   "1982",
+   "1992"
+  ],
+  "answer": 1,
+  "explanation": "Adopted on 2 February 1971 in Ramsar, Iran. World Wetlands Day is observed on 2 February.",
+  "difficulty": "easy",
+  "category": "environment",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq008",
+  "question": "The Paris Agreement on climate change was adopted at which COP?",
+  "options": [
+   "COP3",
+   "COP15",
+   "COP21",
+   "COP26"
+  ],
+  "answer": 2,
+  "explanation": "Adopted at COP21 in 2015; it entered into force on 4 November 2016.",
+  "difficulty": "medium",
+  "category": "environment",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq009",
+  "question": "Where is the UNFCCC secretariat located?",
+  "options": [
+   "Geneva",
+   "Bonn",
+   "Nairobi",
+   "Paris"
+  ],
+  "answer": 1,
+  "explanation": "The UNFCCC secretariat is in Bonn, Germany.",
+  "difficulty": "hard",
+  "category": "environment",
+  "exam": [
+   "nlsat",
+   "aiat"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq010",
+  "question": "Project Tiger was launched in:",
+  "options": [
+   "1952",
+   "1973",
+   "1986",
+   "2006"
+  ],
+  "answer": 1,
+  "explanation": "Project Tiger was launched in 1973. NTCA became statutory in 2006.",
+  "difficulty": "easy",
+  "category": "environment",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq011",
+  "question": "Under which Article of the Constitution is the Election Commission of India established?",
+  "options": [
+   "Article 280",
+   "Article 315",
+   "Article 324",
+   "Article 148"
+  ],
+  "answer": 2,
+  "explanation": "Article 324 vests superintendence, direction and control of elections in the Election Commission.",
+  "difficulty": "easy",
+  "category": "polity",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq012",
+  "question": "Which Article provides for the office of the Attorney General of India?",
+  "options": [
+   "Article 76",
+   "Article 148",
+   "Article 165",
+   "Article 124"
+  ],
+  "answer": 0,
+  "explanation": "Article 76 — Attorney General for India; Article 148 — CAG; Article 165 — Advocate General of a State.",
+  "difficulty": "medium",
+  "category": "polity",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq013",
+  "question": "The Comptroller and Auditor General of India is provided for under:",
+  "options": [
+   "Article 76",
+   "Article 148",
+   "Article 280",
+   "Article 315"
+  ],
+  "answer": 1,
+  "explanation": "Article 148 provides for the CAG of India.",
+  "difficulty": "medium",
+  "category": "polity",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq014",
+  "question": "The Anti-Defection Law is contained in which Schedule?",
+  "options": [
+   "Eighth",
+   "Ninth",
+   "Tenth",
+   "Eleventh"
+  ],
+  "answer": 2,
+  "explanation": "The Tenth Schedule was added by the 52nd Amendment (1985).",
+  "difficulty": "easy",
+  "category": "polity",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq015",
+  "question": "Which Constitutional Amendment Act (2023) provides for one-third reservation for women in Lok Sabha and State Assemblies?",
+  "options": [
+   "104th",
+   "105th",
+   "106th",
+   "107th"
+  ],
+  "answer": 2,
+  "explanation": "The Constitution (106th Amendment) Act, 2023 — Nari Shakti Vandan Adhiniyam.",
+  "difficulty": "medium",
+  "category": "polity",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq016",
+  "question": "Money Bills are defined under which Article?",
+  "options": [
+   "Article 108",
+   "Article 109",
+   "Article 110",
+   "Article 112"
+  ],
+  "answer": 2,
+  "explanation": "Article 110 defines Money Bills; Article 112 deals with the Annual Financial Statement (Budget).",
+  "difficulty": "medium",
+  "category": "polity",
+  "exam": [
+   "nlsat",
+   "aiat"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq017",
+  "question": "The Supreme Court of India was inaugurated on:",
+  "options": [
+   "26 January 1950",
+   "28 January 1950",
+   "15 August 1947",
+   "26 November 1949"
+  ],
+  "answer": 1,
+  "explanation": "The Supreme Court was inaugurated on 28 January 1950, two days after the Constitution came into force.",
+  "difficulty": "medium",
+  "category": "legal",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq018",
+  "question": "The sanctioned strength of the Supreme Court (including the CJI) is:",
+  "options": [
+   "31",
+   "33",
+   "34",
+   "37"
+  ],
+  "answer": 2,
+  "explanation": "Raised to 34 (CJI + 33) by the Supreme Court (Number of Judges) Amendment Act, 2019.",
+  "difficulty": "medium",
+  "category": "legal",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq019",
+  "question": "Which case laid down the 'Basic Structure' doctrine?",
+  "options": [
+   "Golak Nath v. State of Punjab",
+   "Kesavananda Bharati v. State of Kerala",
+   "Minerva Mills v. Union of India",
+   "A.K. Gopalan v. State of Madras"
+  ],
+  "answer": 1,
+  "explanation": "Kesavananda Bharati (1973), decided by a 13-judge bench, held Parliament cannot alter the basic structure.",
+  "difficulty": "easy",
+  "category": "legal",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq020",
+  "question": "The Right to Privacy was declared a Fundamental Right under Article 21 in:",
+  "options": [
+   "Maneka Gandhi (1978)",
+   "K.S. Puttaswamy (2017)",
+   "Kharak Singh (1962)",
+   "Shayara Bano (2017)"
+  ],
+  "answer": 1,
+  "explanation": "A 9-judge bench in K.S. Puttaswamy v. Union of India (2017) overruled M.P. Sharma and Kharak Singh to the extent they denied privacy.",
+  "difficulty": "medium",
+  "category": "legal",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq021",
+  "question": "Dr B.R. Ambedkar called which Article the 'heart and soul' of the Constitution?",
+  "options": [
+   "Article 14",
+   "Article 21",
+   "Article 32",
+   "Article 226"
+  ],
+  "answer": 2,
+  "explanation": "Article 32 — Right to Constitutional Remedies.",
+  "difficulty": "easy",
+  "category": "legal",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq022",
+  "question": "Which writ literally means 'to have the body'?",
+  "options": [
+   "Mandamus",
+   "Habeas Corpus",
+   "Quo Warranto",
+   "Certiorari"
+  ],
+  "answer": 1,
+  "explanation": "Habeas Corpus is used to produce a detained person before the court.",
+  "difficulty": "easy",
+  "category": "legal",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq023",
+  "question": "The Collegium system evolved through which set of cases?",
+  "options": [
+   "Fundamental Rights Cases",
+   "Three Judges Cases",
+   "Privy Purse Cases",
+   "Election Cases"
+  ],
+  "answer": 1,
+  "explanation": "S.P. Gupta (1981), Second Judges (1993) and Third Judges Reference (1998) — together the 'Three Judges Cases'.",
+  "difficulty": "medium",
+  "category": "legal",
+  "exam": [
+   "nlsat",
+   "aiat"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq024",
+  "question": "The NJAC (99th Amendment) was struck down by the Supreme Court in which year?",
+  "options": [
+   "2010",
+   "2013",
+   "2015",
+   "2018"
+  ],
+  "answer": 2,
+  "explanation": "In the Fourth Judges Case (SC Advocates-on-Record Association v. Union of India, 2015).",
+  "difficulty": "medium",
+  "category": "legal",
+  "exam": [
+   "nlsat",
+   "aiat"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq025",
+  "question": "The Bharatiya Nyaya Sanhita replaced which law?",
+  "options": [
+   "Code of Criminal Procedure",
+   "Indian Evidence Act",
+   "Indian Penal Code",
+   "Code of Civil Procedure"
+  ],
+  "answer": 2,
+  "explanation": "BNS replaced the IPC, BNSS replaced the CrPC and BSA replaced the Evidence Act; all in force from 1 July 2024.",
+  "difficulty": "easy",
+  "category": "legal",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq026",
+  "question": "The Digital Personal Data Protection Act was enacted in which year?",
+  "options": [
+   "2019",
+   "2021",
+   "2023",
+   "2024"
+  ],
+  "answer": 2,
+  "explanation": "DPDP Act, 2023 received Presidential assent on 11 August 2023.",
+  "difficulty": "easy",
+  "category": "legal",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq027",
+  "question": "Article 21A (Right to Education) was inserted by which Amendment?",
+  "options": [
+   "42nd",
+   "44th",
+   "73rd",
+   "86th"
+  ],
+  "answer": 3,
+  "explanation": "86th Amendment Act, 2002 — free and compulsory education for children aged 6–14.",
+  "difficulty": "medium",
+  "category": "legal",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq028",
+  "question": "Fundamental Duties were added to the Constitution by which Amendment?",
+  "options": [
+   "24th",
+   "42nd",
+   "44th",
+   "52nd"
+  ],
+  "answer": 1,
+  "explanation": "The 42nd Amendment (1976), on the recommendation of the Swaran Singh Committee.",
+  "difficulty": "easy",
+  "category": "legal",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq029",
+  "question": "Which case is regarded as the first reported Public Interest Litigation in India?",
+  "options": [
+   "Hussainara Khatoon v. State of Bihar",
+   "Olga Tellis v. Bombay Municipal Corporation",
+   "Bandhua Mukti Morcha v. Union of India",
+   "M.C. Mehta v. Union of India"
+  ],
+  "answer": 0,
+  "explanation": "Hussainara Khatoon (1979) concerned undertrial prisoners in Bihar.",
+  "difficulty": "hard",
+  "category": "legal",
+  "exam": [
+   "nlsat",
+   "aiat"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq030",
+  "question": "In re: Article 370 (2023), the Constitution Bench of the Supreme Court was of how many judges?",
+  "options": [
+   "3",
+   "5",
+   "7",
+   "9"
+  ],
+  "answer": 1,
+  "explanation": "A five-judge Constitution Bench headed by CJI D.Y. Chandrachud upheld the 2019 abrogation on 11 December 2023.",
+  "difficulty": "medium",
+  "category": "legal",
+  "exam": [
+   "nlsat",
+   "aiat"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq031",
+  "question": "The Monetary Policy Committee of the RBI has how many members?",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "7"
+  ],
+  "answer": 2,
+  "explanation": "Six members: three from the RBI and three external members appointed by the Government.",
+  "difficulty": "medium",
+  "category": "economy",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq032",
+  "question": "The inflation target set for the RBI under the flexible inflation targeting framework is:",
+  "options": [
+   "2% ±1%",
+   "4% ±2%",
+   "5% ±2%",
+   "6% ±1%"
+  ],
+  "answer": 1,
+  "explanation": "CPI inflation target of 4% with a tolerance band of ±2%.",
+  "difficulty": "medium",
+  "category": "economy",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq033",
+  "question": "NITI Aayog replaced which body?",
+  "options": [
+   "Finance Commission",
+   "Planning Commission",
+   "National Development Council",
+   "Inter-State Council"
+  ],
+  "answer": 1,
+  "explanation": "NITI Aayog was set up on 1 January 2015 replacing the Planning Commission.",
+  "difficulty": "easy",
+  "category": "economy",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq034",
+  "question": "UPI was launched in which year?",
+  "options": [
+   "2012",
+   "2014",
+   "2016",
+   "2018"
+  ],
+  "answer": 2,
+  "explanation": "UPI (NPCI) was launched in April 2016.",
+  "difficulty": "easy",
+  "category": "economy",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq035",
+  "question": "The New Development Bank (BRICS) is headquartered in:",
+  "options": [
+   "New Delhi",
+   "Moscow",
+   "Shanghai",
+   "Johannesburg"
+  ],
+  "answer": 2,
+  "explanation": "The NDB's headquarters is in Shanghai, China.",
+  "difficulty": "medium",
+  "category": "economy",
+  "exam": [
+   "nlsat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq036",
+  "question": "Where is the headquarters of the International Monetary Fund?",
+  "options": [
+   "Geneva",
+   "Washington, D.C.",
+   "New York",
+   "London"
+  ],
+  "answer": 1,
+  "explanation": "IMF and World Bank are both headquartered in Washington, D.C.",
+  "difficulty": "easy",
+  "category": "economy",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq037",
+  "question": "Chandrayaan-3 soft-landed on the Moon on:",
+  "options": [
+   "15 August 2023",
+   "23 August 2023",
+   "2 September 2023",
+   "14 July 2023"
+  ],
+  "answer": 1,
+  "explanation": "23 August 2023; India observes it as National Space Day.",
+  "difficulty": "easy",
+  "category": "scitech",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq038",
+  "question": "ISRO was established in:",
+  "options": [
+   "1962",
+   "1969",
+   "1975",
+   "1984"
+  ],
+  "answer": 1,
+  "explanation": "ISRO was formed on 15 August 1969 (INCOSPAR came in 1962).",
+  "difficulty": "medium",
+  "category": "scitech",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq039",
+  "question": "NATO was founded in which year?",
+  "options": [
+   "1945",
+   "1949",
+   "1955",
+   "1961"
+  ],
+  "answer": 1,
+  "explanation": "The North Atlantic Treaty was signed on 4 April 1949.",
+  "difficulty": "easy",
+  "category": "international",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq040",
+  "question": "Which of these is a member of the QUAD?",
+  "options": [
+   "China",
+   "Japan",
+   "South Korea",
+   "Indonesia"
+  ],
+  "answer": 1,
+  "explanation": "QUAD: India, USA, Japan, Australia.",
+  "difficulty": "easy",
+  "category": "international",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq041",
+  "question": "The Padma Awards were instituted in:",
+  "options": [
+   "1947",
+   "1950",
+   "1954",
+   "1969"
+  ],
+  "answer": 2,
+  "explanation": "Bharat Ratna and the Padma awards were instituted in 1954.",
+  "difficulty": "medium",
+  "category": "awards",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq042",
+  "question": "The Nobel Peace Prize is presented in which city?",
+  "options": [
+   "Stockholm",
+   "Oslo",
+   "Copenhagen",
+   "Geneva"
+  ],
+  "answer": 1,
+  "explanation": "All other Nobel prizes are presented in Stockholm; the Peace Prize in Oslo.",
+  "difficulty": "easy",
+  "category": "awards",
+  "exam": [
+   "nlsat",
+   "aiat",
+   "ssc"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq043",
+  "question": "Who is the 'Patron-in-Chief' of NALSA?",
+  "options": [
+   "President of India",
+   "Prime Minister",
+   "Chief Justice of India",
+   "Law Minister"
+  ],
+  "answer": 2,
+  "explanation": "The CJI is Patron-in-Chief of NALSA, set up under the Legal Services Authorities Act, 1987.",
+  "difficulty": "medium",
+  "category": "legal",
+  "exam": [
+   "nlsat",
+   "aiat"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq044",
+  "question": "Which Article directs the State to provide equal justice and free legal aid?",
+  "options": [
+   "Article 38",
+   "Article 39A",
+   "Article 41",
+   "Article 44"
+  ],
+  "answer": 1,
+  "explanation": "Article 39A (inserted by the 42nd Amendment).",
+  "difficulty": "medium",
+  "category": "legal",
+  "exam": [
+   "nlsat",
+   "aiat"
+  ],
+  "origin": "static",
+  "is_demo": false
+ },
+ {
+  "id": "sq045",
+  "question": "S.R. Bommai v. Union of India (1994) is associated with:",
+  "options": [
+   "Right to Privacy",
+   "President's Rule (Art. 356)",
+   "Reservation",
+   "Death penalty"
+  ],
+  "answer": 1,
+  "explanation": "Bommai held that a proclamation under Art. 356 is subject to judicial review.",
+  "difficulty": "medium",
+  "category": "legal",
+  "exam": [
+   "nlsat",
+   "aiat"
+  ],
+  "origin": "static",
+  "is_demo": false
+ }
+]

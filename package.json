@@ -1,0 +1,46 @@
+{
+  "name": "lawca",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LawCA — exam-first current affairs intelligence dashboard for NLSAT / AIAT / SSC-level law entrance exams",
+  "scripts": {
+    "dev": "npm run data && next dev",
+    "data": "tsx scripts/build-data.ts",
+    "build": "npm run data && next build",
+    "start": "npx serve out",
+    "lint": "tsc --noEmit",
+    "test": "vitest run",
+    "pipeline:fetch": "tsx scripts/pipeline.ts fetch",
+    "pipeline:enrich": "tsx scripts/pipeline.ts enrich",
+    "pipeline:run": "tsx scripts/pipeline.ts all",
+    "sources:check": "tsx scripts/check-sources.ts",
+    "generate:weekly": "tsx scripts/generate.ts weekly",
+    "generate:monthly": "tsx scripts/generate.ts monthly",
+    "sync:supabase": "tsx scripts/sync-supabase.ts"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "lucide-react": "^0.460.0",
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "recharts": "^2.13.0",
+    "rss-parser": "^3.13.0",
+    "zod": "^3.23.0"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^10.4.2",
+    "@testing-library/react": "^16.3.3",
+    "@testing-library/user-event": "^14.6.7",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "autoprefixer": "^10.4.20",
+    "jsdom": "^29.1.1",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "vitest": "^2.1.0"
+  }
+}

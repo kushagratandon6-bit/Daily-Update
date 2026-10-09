@@ -1,0 +1,314 @@
+[
+ {
+  "id": "fc001",
+  "front": "Headquarters of the WTO?",
+  "back": "Geneva, Switzerland",
+  "category": "international"
+ },
+ {
+  "id": "fc002",
+  "front": "Headquarters of ASEAN?",
+  "back": "Jakarta, Indonesia",
+  "category": "international"
+ },
+ {
+  "id": "fc003",
+  "front": "Headquarters of the IMF and World Bank?",
+  "back": "Washington, D.C., USA",
+  "category": "international"
+ },
+ {
+  "id": "fc004",
+  "front": "Headquarters of NATO?",
+  "back": "Brussels, Belgium",
+  "category": "international"
+ },
+ {
+  "id": "fc005",
+  "front": "Headquarters of the WHO?",
+  "back": "Geneva, Switzerland",
+  "category": "international"
+ },
+ {
+  "id": "fc006",
+  "front": "Headquarters of UNESCO?",
+  "back": "Paris, France",
+  "category": "international"
+ },
+ {
+  "id": "fc007",
+  "front": "Seat of the ICJ and ICC?",
+  "back": "The Hague, Netherlands",
+  "category": "international"
+ },
+ {
+  "id": "fc008",
+  "front": "Headquarters of the UN?",
+  "back": "New York, USA",
+  "category": "international"
+ },
+ {
+  "id": "fc009",
+  "front": "Headquarters of the ILO?",
+  "back": "Geneva, Switzerland",
+  "category": "international"
+ },
+ {
+  "id": "fc010",
+  "front": "Headquarters of the BRICS New Development Bank?",
+  "back": "Shanghai, China",
+  "category": "economy"
+ },
+ {
+  "id": "fc011",
+  "front": "Members of the QUAD?",
+  "back": "India, USA, Japan, Australia",
+  "category": "international"
+ },
+ {
+  "id": "fc012",
+  "front": "When was ASEAN founded?",
+  "back": "8 August 1967 (Bangkok Declaration)",
+  "category": "international"
+ },
+ {
+  "id": "fc013",
+  "front": "When was the WTO established?",
+  "back": "1 January 1995 (successor to GATT)",
+  "category": "international"
+ },
+ {
+  "id": "fc014",
+  "front": "When did the Rome Statute enter into force?",
+  "back": "1 July 2002",
+  "category": "international"
+ },
+ {
+  "id": "fc015",
+  "front": "Ramsar Convention adopted?",
+  "back": "2 February 1971 at Ramsar, Iran (World Wetlands Day)",
+  "category": "environment"
+ },
+ {
+  "id": "fc016",
+  "front": "Paris Agreement temperature goal?",
+  "back": "Well below 2°C; pursue 1.5°C above pre-industrial levels",
+  "category": "environment"
+ },
+ {
+  "id": "fc017",
+  "front": "Project Tiger launched in?",
+  "back": "1973",
+  "category": "environment"
+ },
+ {
+  "id": "fc018",
+  "front": "RBI established on?",
+  "back": "1 April 1935 (nationalised 1 January 1949)",
+  "category": "economy"
+ },
+ {
+  "id": "fc019",
+  "front": "RBI inflation target?",
+  "back": "4% with ±2% tolerance band (CPI)",
+  "category": "economy"
+ },
+ {
+  "id": "fc020",
+  "front": "Members in the Monetary Policy Committee?",
+  "back": "6 (3 RBI + 3 external)",
+  "category": "economy"
+ },
+ {
+  "id": "fc021",
+  "front": "NITI Aayog replaced?",
+  "back": "The Planning Commission (1 January 2015)",
+  "category": "polity"
+ },
+ {
+  "id": "fc022",
+  "front": "UPI launched in?",
+  "back": "April 2016 (by NPCI)",
+  "category": "economy"
+ },
+ {
+  "id": "fc023",
+  "front": "Article for Election Commission?",
+  "back": "Article 324",
+  "category": "polity"
+ },
+ {
+  "id": "fc024",
+  "front": "Article for Attorney General?",
+  "back": "Article 76",
+  "category": "polity"
+ },
+ {
+  "id": "fc025",
+  "front": "Article for CAG?",
+  "back": "Article 148",
+  "category": "polity"
+ },
+ {
+  "id": "fc026",
+  "front": "Article for Finance Commission?",
+  "back": "Article 280",
+  "category": "polity"
+ },
+ {
+  "id": "fc027",
+  "front": "Article for Governor?",
+  "back": "Article 153",
+  "category": "polity"
+ },
+ {
+  "id": "fc028",
+  "front": "Which Schedule has the anti-defection law?",
+  "back": "Tenth Schedule (52nd Amendment, 1985)",
+  "category": "polity"
+ },
+ {
+  "id": "fc029",
+  "front": "Article 32 is called?",
+  "back": "'Heart and soul' of the Constitution — Right to Constitutional Remedies",
+  "category": "legal"
+ },
+ {
+  "id": "fc030",
+  "front": "Article 21A?",
+  "back": "Free & compulsory education for ages 6–14 (86th Amendment, 2002)",
+  "category": "legal"
+ },
+ {
+  "id": "fc031",
+  "front": "Article 39A?",
+  "back": "Equal justice and free legal aid (DPSP)",
+  "category": "legal"
+ },
+ {
+  "id": "fc032",
+  "front": "Basic Structure doctrine — which case?",
+  "back": "Kesavananda Bharati v. State of Kerala (1973), 13 judges",
+  "category": "legal"
+ },
+ {
+  "id": "fc033",
+  "front": "Right to Privacy case?",
+  "back": "K.S. Puttaswamy v. Union of India (2017), 9 judges",
+  "category": "legal"
+ },
+ {
+  "id": "fc034",
+  "front": "Which case limited Art. 356 misuse?",
+  "back": "S.R. Bommai v. Union of India (1994)",
+  "category": "legal"
+ },
+ {
+  "id": "fc035",
+  "front": "Collegium cases?",
+  "back": "Three Judges Cases: 1981, 1993, 1998 (NJAC struck down 2015)",
+  "category": "legal"
+ },
+ {
+  "id": "fc036",
+  "front": "Which Amendment added Fundamental Duties?",
+  "back": "42nd Amendment (1976) — Article 51A",
+  "category": "legal"
+ },
+ {
+  "id": "fc037",
+  "front": "Women's reservation Amendment?",
+  "back": "106th Amendment Act, 2023 (Nari Shakti Vandan Adhiniyam)",
+  "category": "polity"
+ },
+ {
+  "id": "fc038",
+  "front": "Which laws replaced IPC/CrPC/Evidence Act?",
+  "back": "BNS / BNSS / BSA — in force 1 July 2024",
+  "category": "legal"
+ },
+ {
+  "id": "fc039",
+  "front": "Supreme Court inaugurated?",
+  "back": "28 January 1950",
+  "category": "legal"
+ },
+ {
+  "id": "fc040",
+  "front": "Sanctioned strength of the Supreme Court?",
+  "back": "34 (CJI + 33)",
+  "category": "legal"
+ },
+ {
+  "id": "fc041",
+  "front": "Bharat Ratna instituted?",
+  "back": "1954",
+  "category": "awards"
+ },
+ {
+  "id": "fc042",
+  "front": "Nobel Peace Prize presented in?",
+  "back": "Oslo (others in Stockholm)",
+  "category": "awards"
+ },
+ {
+  "id": "fc043",
+  "front": "Chandrayaan-3 landing date?",
+  "back": "23 August 2023 (National Space Day)",
+  "category": "scitech"
+ },
+ {
+  "id": "fc044",
+  "front": "ISRO established?",
+  "back": "15 August 1969, HQ Bengaluru",
+  "category": "scitech"
+ },
+ {
+  "id": "fc045",
+  "front": "SCO — when did India become a full member?",
+  "back": "2017 (with Pakistan); HQ Secretariat Beijing",
+  "category": "international"
+ },
+ {
+  "id": "fc046",
+  "front": "G20 — India's presidency year?",
+  "back": "2023 (African Union admitted as permanent member)",
+  "category": "international"
+ },
+ {
+  "id": "fc047",
+  "front": "NATO — Article 5?",
+  "back": "Collective defence: attack on one = attack on all",
+  "category": "international"
+ },
+ {
+  "id": "fc048",
+  "front": "NHRC established?",
+  "back": "12 October 1993 (Protection of Human Rights Act, 1993)",
+  "category": "legal"
+ },
+ {
+  "id": "fc049",
+  "front": "NALSA — under which Act?",
+  "back": "Legal Services Authorities Act, 1987",
+  "category": "legal"
+ },
+ {
+  "id": "fc050",
+  "front": "First Law Commission chairman?",
+  "back": "M.C. Setalvad (1955)",
+  "category": "legal"
+ },
+ {
+  "id": "fc051",
+  "front": "Which writ means 'by what authority'?",
+  "back": "Quo Warranto",
+  "category": "legal"
+ },
+ {
+  "id": "fc052",
+  "front": "Which writ means 'we command'?",
+  "back": "Mandamus",
+  "category": "legal"
+ }
+]
