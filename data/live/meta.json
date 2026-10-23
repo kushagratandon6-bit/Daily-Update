@@ -1,10 +1,10 @@
 {
- "last_fetch_at": "2026-10-23T17:03:46.263Z",
+ "last_fetch_at": "2026-10-23T21:22:12.632Z",
  "failed_sources": [
   "The Indian Express",
   "LiveLaw"
  ],
- "fetched": 635,
- "added": 184,
- "merged": 12
+ "fetched": 629,
+ "added": 86,
+ "merged": 9
 }
