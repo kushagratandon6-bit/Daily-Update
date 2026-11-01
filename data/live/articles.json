@@ -1,5 +1,928 @@
 [
  {
+  "id": "6670157acb4c",
+  "title": "'माई भारत' के ‘विकसित भारत युवा संवाद: अपने वोट को जानें’ अभियान में 16 राज्यों/केंद्र शासित प्रदेशों में आयोजित 62 कार्यक्रमों के माध्यम से 11,000 से अधिक युवा जुड़े",
+  "summary": "'माई भारत' के ‘विकसित भारत युवा संवाद: अपने वोट को जानें’ अभियान में 16 राज्यों/केंद्र शासित प्रदेशों में आयोजित 62 कार्यक्रमों के माध्यम से 11,000 से अधिक युवा जुड़े",
+  "content": [
+   "'माई भारत' के ‘विकसित भारत युवा संवाद: अपने वोट को जानें’ अभियान में 16 राज्यों/केंद्र शासित प्रदेशों में आयोजित 62 कार्यक्रमों के माध्यम से 11,000 से अधिक युवा जुड़े"
+  ],
+  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
+  "keyFacts": [],
+  "examinerAngles": [
+   "Which person / place / institution / number can be asked?",
+   "What is the static-GK link?"
+  ],
+  "category": "national",
+  "tags": [
+   "national"
+  ],
+  "published_at": "2026-11-01T00:06:24.138Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "PIB",
+    "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2331030",
+    "quality": 10
+   }
+  ],
+  "source_quality": 10,
+  "relevance_score": 5,
+  "exam": {
+   "nlsat": 5,
+   "aiat": 4,
+   "ssc": 5
+  },
+  "legal_relevance": 2,
+  "national_importance": 7,
+  "mcq_value": 7,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 65.5
+ },
+ {
+  "id": "72ca8db68c73",
+  "title": "Mamdani says Trump has agreed to grant visa to mother of Ghanian teen killed in Bronx shooting",
+  "summary": "The teenager, Javits Frimpong, was on his way to school in a Bronx neighbourhood shortly before 9.30 a.m. October 29 when he was shot in the abdomen, New York City police said",
+  "content": [
+   "The teenager, Javits Frimpong, was on his way to school in a Bronx neighbourhood shortly before 9.30 a.m. October 29 when he was shot in the abdomen, New York City police said"
+  ],
+  "whyMatters": "Questions typically ask which countries/organisations are involved, headquarters, founding years and India’s connection.",
+  "keyFacts": [
+   "The teenager, Javits Frimpong, was on his way to school in a Bronx neighbourhood shortly before 9.30 a.m.",
+   "October 29 when he was shot in the abdomen, New York City police said"
+  ],
+  "examinerAngles": [
+   "Where is the HQ of the organisation / which countries are involved?",
+   "What is India’s connection or stand?",
+   "When was the agreement / grouping formed?"
+  ],
+  "category": "international",
+  "tags": [
+   "international"
+  ],
+  "published_at": "2026-10-31T23:43:25.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/news/international/mamdani-says-trump-has-agreed-to-grant-visa-to-mother-of-ghanian-teen-killed-in-bronx-shooting/article71651389.ece",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 5,
+  "exam": {
+   "nlsat": 5,
+   "aiat": 4,
+   "ssc": 5
+  },
+  "legal_relevance": 2,
+  "national_importance": 6,
+  "mcq_value": 7,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 61
+ },
+ {
+  "id": "1444a2963366",
+  "title": "In Punjab, the highway to 2027",
+  "summary": "The drug menace in Punjab has stayed at the centre of political and social attention over the past decade or more. With the killing of anti-drug crusader Parvinder Singh Jhota, public emotions are running high. Political parties are hoping to capitalise on this, with the Assembly election due in early 2027, finds Vikas Vasudeva",
+  "content": [
+   "The drug menace in Punjab has stayed at the centre of political and social attention over the past decade or more. With the killing of anti-drug crusader Parvinder Singh Jhota, public emotions are running high. Political parties are hoping to capitalise on this, with the Assembly election due in early 2027, finds Vikas Vasudeva"
+  ],
+  "whyMatters": "Institutions, constitutional bodies and legislative developments may be tested through names, articles and appointment rules.",
+  "keyFacts": [
+   "With the killing of anti-drug crusader Parvinder Singh Jhota, public emotions are running high.",
+   "Political parties are hoping to capitalise on this, with the Assembly election due in early 2027, finds Vikas Vasudeva"
+  ],
+  "examinerAngles": [
+   "Which constitutional article or body is involved?",
+   "Who appoints / removes the authority concerned?",
+   "Which house or committee is involved?"
+  ],
+  "category": "polity",
+  "tags": [
+   "polity"
+  ],
+  "published_at": "2026-10-31T23:20:22.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/news/national/punjab/in-punjab-the-highway-to-2027/article71649073.ece",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 5,
+  "exam": {
+   "nlsat": 5,
+   "aiat": 6,
+   "ssc": 5
+  },
+  "legal_relevance": 2,
+  "national_importance": 8,
+  "mcq_value": 7,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 64
+ },
+ {
+  "id": "4e14928928d0",
+  "title": "IOA’s election Code of Conduct bars criticism of ‘private life’ of candidates, publicity",
+  "summary": "The election to pick 10 members of the Athletes' Commission of the Indian Olympic Association (IOA) will be held on November 3, while the polls to choose eight SOMs will be held on November 9",
+  "content": [
+   "The election to pick 10 members of the Athletes' Commission of the Indian Olympic Association (IOA) will be held on November 3, while the polls to choose eight SOMs will be held on November 9"
+  ],
+  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
+  "keyFacts": [
+   "The election to pick 10 members of the Athletes' Commission of the Indian Olympic Association (IOA) will be held on November 3, while the polls to choose eight SOMs will be held on November 9"
+  ],
+  "examinerAngles": [
+   "Which person / place / institution / number can be asked?",
+   "What is the static-GK link?"
+  ],
+  "category": "sports",
+  "tags": [
+   "sports"
+  ],
+  "published_at": "2026-10-31T21:39:30.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/sport/ioas-election-code-of-conduct-bars-criticism-of-private-life-of-candidates-publicity/article71650830.ece",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 4,
+  "exam": {
+   "nlsat": 4,
+   "aiat": 3,
+   "ssc": 5
+  },
+  "legal_relevance": 2,
+  "national_importance": 4,
+  "mcq_value": 10,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 58
+ },
+ {
+  "id": "6e918866f99a",
+  "title": "In his first visit, BJP’s Bihar in-charge Harish Dwivedi stresses on strengthening the party",
+  "summary": "Dwivedi gave guidance on strengthening the organisation through regular meetings and effective public outreach campaigns",
+  "content": [
+   "Dwivedi gave guidance on strengthening the organisation through regular meetings and effective public outreach campaigns"
+  ],
+  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
+  "keyFacts": [
+   "Dwivedi gave guidance on strengthening the organisation through regular meetings and effective public outreach campaigns"
+  ],
+  "examinerAngles": [
+   "Which person / place / institution / number can be asked?",
+   "What is the static-GK link?"
+  ],
+  "category": "national",
+  "tags": [
+   "national"
+  ],
+  "published_at": "2026-10-31T20:58:03.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/news/national/bihar/in-his-first-visit-bjps-bihar-in-charge-harish-dwivedi-stresses-on-strengthening-the-party/article71649638.ece",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 4,
+  "exam": {
+   "nlsat": 4,
+   "aiat": 3,
+   "ssc": 4
+  },
+  "legal_relevance": 2,
+  "national_importance": 6,
+  "mcq_value": 6,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 57
+ },
+ {
+  "id": "bb2391ed255f",
+  "title": "Madras High Court Advocates Association challenges 1965 Union Cabinet decision to continue English as common language for Supreme Court and all High Courts",
+  "summary": "Says, the 1965 decision came to its notice only in 2025 pursuant to details obtained by a lawyer under the Right to Information Act, 2005",
+  "content": [
+   "Says, the 1965 decision came to its notice only in 2025 pursuant to details obtained by a lawyer under the Right to Information Act, 2005"
+  ],
+  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
+  "keyFacts": [
+   "Says, the 1965 decision came to its notice only in 2025 pursuant to details obtained by a lawyer under the Right to Information Act, 2005"
+  ],
+  "examinerAngles": [
+   "Which Article / Act / provision is involved?",
+   "Bench strength and which judge authored the judgment?",
+   "Which earlier case was relied on, distinguished or overruled?",
+   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
+  ],
+  "category": "legal",
+  "tags": [
+   "Supreme Court",
+   "High Court"
+  ],
+  "published_at": "2026-10-31T20:57:53.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-advocates-association-challenges-1965-union-cabinet-decision-to-continue-english-as-common-language-for-supreme-court-and-all-high-courts/article71648537.ece",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 9,
+  "exam": {
+   "nlsat": 10,
+   "aiat": 10,
+   "ssc": 9
+  },
+  "legal_relevance": 10,
+  "national_importance": 9,
+  "mcq_value": 8,
+  "staticLinks": [
+   "supreme-court"
+  ],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 90.5
+ },
+ {
+  "id": "13f31897680f",
+  "title": "London police arrest 139 people outside U.S. Embassy for supporting banned pro-Palestinian group",
+  "summary": "Many of those protesting were retirees and were holding signs reading: “I oppose genocide, I support Palestine Action”",
+  "content": [
+   "Many of those protesting were retirees and were holding signs reading: “I oppose genocide, I support Palestine Action”"
+  ],
+  "whyMatters": "Questions typically ask which countries/organisations are involved, headquarters, founding years and India’s connection.",
+  "keyFacts": [
+   "Many of those protesting were retirees and were holding signs reading: “I oppose genocide, I support Palestine Action”"
+  ],
+  "examinerAngles": [
+   "Where is the HQ of the organisation / which countries are involved?",
+   "What is India’s connection or stand?",
+   "When was the agreement / grouping formed?"
+  ],
+  "category": "international",
+  "tags": [
+   "international"
+  ],
+  "published_at": "2026-10-31T20:41:11.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/news/international/london-police-arrest-many-outside-us-embassy-for-supporting-banned-pro-palestinian-group/article71650821.ece",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 5,
+  "exam": {
+   "nlsat": 5,
+   "aiat": 4,
+   "ssc": 5
+  },
+  "legal_relevance": 2,
+  "national_importance": 6,
+  "mcq_value": 6,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 60
+ },
+ {
+  "id": "50628dae9038",
+  "title": "Akhilesh pitches Gorakhpur vs Kashi narrative, eyes inroads among Brahmins, business community",
+  "summary": "Akhilesh Yadav is attempting to make inroads among Brahmins and the Bania community by accusing the Chief Minister and his regime of being anti-Brahmins and Banias",
+  "content": [
+   "Akhilesh Yadav is attempting to make inroads among Brahmins and the Bania community by accusing the Chief Minister and his regime of being anti-Brahmins and Banias"
+  ],
+  "whyMatters": "Institutions, constitutional bodies and legislative developments may be tested through names, articles and appointment rules.",
+  "keyFacts": [
+   "Akhilesh Yadav is attempting to make inroads among Brahmins and the Bania community by accusing the Chief Minister and his regime of being anti-Brahmins and Banias"
+  ],
+  "examinerAngles": [
+   "Which constitutional article or body is involved?",
+   "Who appoints / removes the authority concerned?",
+   "Which house or committee is involved?"
+  ],
+  "category": "polity",
+  "tags": [
+   "polity"
+  ],
+  "published_at": "2026-10-31T20:27:22.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-pitches-gorakhpur-vs-kashi-narrative-eyes-inroads-among-brahmins-business-community/article71650006.ece",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 5,
+  "exam": {
+   "nlsat": 5,
+   "aiat": 6,
+   "ssc": 5
+  },
+  "legal_relevance": 2,
+  "national_importance": 8,
+  "mcq_value": 6,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 63
+ },
+ {
+  "id": "0a85ea206840",
+  "title": "Devotees worried over conduct of Kandasashti festival at Kandakottam temple",
+  "summary": "Devotees worried over conduct of Kandasashti festival at Kandakottam temple",
+  "content": [
+   "Devotees worried over conduct of Kandasashti festival at Kandakottam temple"
+  ],
+  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
+  "keyFacts": [],
+  "examinerAngles": [
+   "Which person / place / institution / number can be asked?",
+   "What is the static-GK link?"
+  ],
+  "category": "national",
+  "tags": [
+   "national"
+  ],
+  "published_at": "2026-10-31T20:05:01.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/news/cities/chennai/devotees-worried-over-conduct-of-kandasashti-festival-at-kandakottam-temple/article71650165.ece",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 4,
+  "exam": {
+   "nlsat": 4,
+   "aiat": 3,
+   "ssc": 4
+  },
+  "legal_relevance": 2,
+  "national_importance": 6,
+  "mcq_value": 5,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 56
+ },
+ {
+  "id": "cd73d12040e5",
+  "title": "UN formally concludes political mission in Somalia after 30 years",
+  "summary": "UN formally concludes political mission in Somalia after 30 years سانا",
+  "content": [
+   "UN formally concludes political mission in Somalia after 30 years سانا"
+  ],
+  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
+  "keyFacts": [
+   "UN formally concludes political mission in Somalia after 30 years سانا"
+  ],
+  "examinerAngles": [
+   "Which person / place / institution / number can be asked?",
+   "What is the static-GK link?"
+  ],
+  "category": "schemes",
+  "tags": [
+   "UN"
+  ],
+  "published_at": "2026-10-31T19:53:00.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "سانا",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LQXFmMUxOWGNEQjZhY1VqOUx5SGI4dU9ITkdxc243ZnJjdDRhLVVSdUFlY3ZLc0c3V0dGanZhU1Z6SmFKM1JuSmVmOUkxRUVHNHR3?oc=5",
+    "quality": 5
+   }
+  ],
+  "source_quality": 5,
+  "relevance_score": 5,
+  "exam": {
+   "nlsat": 5,
+   "aiat": 6,
+   "ssc": 5
+  },
+  "legal_relevance": 2,
+  "national_importance": 7,
+  "mcq_value": 6,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": false,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 57
+ },
+ {
+  "id": "23c478f85fc9",
+  "title": "We did not buy peace; we established peace in J&K: L-G Manoj Sinha on UT Foundation Day",
+  "summary": "L-G Manoj Sinha said terror, separatism and stone-pelting have given way to democracy, development and public participation after Article 370 was removed",
+  "content": [
+   "L-G Manoj Sinha said terror, separatism and stone-pelting have given way to democracy, development and public participation after Article 370 was removed"
+  ],
+  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
+  "keyFacts": [
+   "L-G Manoj Sinha said terror, separatism and stone-pelting have given way to democracy, development and public participation after Article 370 was removed"
+  ],
+  "examinerAngles": [
+   "Which Article / Act / provision is involved?",
+   "Bench strength and which judge authored the judgment?",
+   "Which earlier case was relied on, distinguished or overruled?",
+   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
+  ],
+  "category": "legal",
+  "tags": [
+   "Constitution"
+  ],
+  "published_at": "2026-10-31T19:51:12.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/we-did-not-buy-peace-we-established-peace-in-jk-l-g-manoj-sinha-on-ut-foundation-day/article71650210.ece",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 6,
+  "exam": {
+   "nlsat": 7,
+   "aiat": 7,
+   "ssc": 6
+  },
+  "legal_relevance": 10,
+  "national_importance": 7,
+  "mcq_value": 6,
+  "staticLinks": [],
+  "legalLinks": [
+   "article-370"
+  ],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 76.5
+ },
+ {
+  "id": "02e1634d4a27",
+  "title": "Slovakian couple had come for a holiday to India, man died hours after checking into Conrad",
+  "summary": "Wife says that she rushed to check on him after hearing a loud noise from near the pool, but found him motionless in the water.",
+  "content": [
+   "Wife says that she rushed to check on him after hearing a loud noise from near the pool, but found him motionless in the water."
+  ],
+  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
+  "keyFacts": [
+   "Wife says that she rushed to check on him after hearing a loud noise from near the pool, but found him motionless in the water."
+  ],
+  "examinerAngles": [
+   "Which person / place / institution / number can be asked?",
+   "What is the static-GK link?"
+  ],
+  "category": "national",
+  "tags": [
+   "national"
+  ],
+  "published_at": "2026-10-31T19:49:29.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/news/national/karnataka/slovakian-couple-had-come-for-a-holiday-to-india-man-died-hours-after-checking-into-conrad/article71650525.ece",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 4,
+  "exam": {
+   "nlsat": 4,
+   "aiat": 3,
+   "ssc": 4
+  },
+  "legal_relevance": 2,
+  "national_importance": 6,
+  "mcq_value": 5,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 56
+ },
+ {
+  "id": "2aec6049ce5e",
+  "title": "WTO | Cambodia - Building capacity for the next chapter in services trade",
+  "summary": "WTO | Cambodia - Building capacity for the next chapter in services trade World Trade Organization",
+  "content": [
+   "WTO | Cambodia - Building capacity for the next chapter in services trade World Trade Organization"
+  ],
+  "whyMatters": "Questions typically ask which countries/organisations are involved, headquarters, founding years and India’s connection.",
+  "keyFacts": [
+   "WTO | Cambodia - Building capacity for the next chapter in services trade World Trade Organization"
+  ],
+  "examinerAngles": [
+   "Where is the HQ of the organisation / which countries are involved?",
+   "What is India’s connection or stand?",
+   "When was the agreement / grouping formed?"
+  ],
+  "category": "international",
+  "tags": [
+   "WTO"
+  ],
+  "published_at": "2026-10-31T19:48:31.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "World Trade Organization",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UM0dNanZDVW9MeFhyZlJMT2Y0OWdERHhiWEVoU2ZuM1pVQWtjci1NTmFxd2RxMzVfYU5ySDNnRHJyTWZyNmZzS2M3dVNYb1gzejFTTHFqNk9IRnpUVFQ0NlBkbG5ueTUwSUhrUEgwbkFIYUJ2?oc=5",
+    "quality": 5
+   }
+  ],
+  "source_quality": 5,
+  "relevance_score": 6,
+  "exam": {
+   "nlsat": 6,
+   "aiat": 5,
+   "ssc": 6
+  },
+  "legal_relevance": 2,
+  "national_importance": 6,
+  "mcq_value": 6,
+  "staticLinks": [
+   "wto"
+  ],
+  "legalLinks": [],
+  "verified": false,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 58.5
+ },
+ {
+  "id": "e4c23dbd1946",
+  "title": "WTO | Senegal - It is not at the border that trade fails",
+  "summary": "WTO | Senegal - It is not at the border that trade fails World Trade Organization",
+  "content": [
+   "WTO | Senegal - It is not at the border that trade fails World Trade Organization"
+  ],
+  "whyMatters": "Defence items are tested through exercise/system names, participating countries and locations.",
+  "keyFacts": [
+   "WTO | Senegal - It is not at the border that trade fails World Trade Organization"
+  ],
+  "examinerAngles": [
+   "Which person / place / institution / number can be asked?",
+   "What is the static-GK link?"
+  ],
+  "category": "defence",
+  "tags": [
+   "WTO"
+  ],
+  "published_at": "2026-10-31T19:48:30.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "World Trade Organization",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zNVJ3N2dOZ0RMU2lYR0p6VnRiYUhVRnVRdG1ET3BKaW5FYVhyTnhlNEtuSXN4bEx2MzM2N1ZCbmljSHFUaWE5MGtxd294Wmp6Qk1saUxaN3NYTEl5QzZETUh1QTByT3BBd3dMVU5XUXc?oc=5",
+    "quality": 5
+   }
+  ],
+  "source_quality": 5,
+  "relevance_score": 6,
+  "exam": {
+   "nlsat": 6,
+   "aiat": 5,
+   "ssc": 6
+  },
+  "legal_relevance": 2,
+  "national_importance": 6,
+  "mcq_value": 6,
+  "staticLinks": [
+   "wto"
+  ],
+  "legalLinks": [],
+  "verified": false,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 58.5
+ },
+ {
+  "id": "960370d5f36f",
+  "title": "WTO | Nepal - How services are changing Nepal's trade journey",
+  "summary": "WTO | Nepal - How services are changing Nepal's trade journey World Trade Organization",
+  "content": [
+   "WTO | Nepal - How services are changing Nepal's trade journey World Trade Organization"
+  ],
+  "whyMatters": "Questions typically ask which countries/organisations are involved, headquarters, founding years and India’s connection.",
+  "keyFacts": [
+   "WTO | Nepal - How services are changing Nepal's trade journey World Trade Organization"
+  ],
+  "examinerAngles": [
+   "Where is the HQ of the organisation / which countries are involved?",
+   "What is India’s connection or stand?",
+   "When was the agreement / grouping formed?"
+  ],
+  "category": "international",
+  "tags": [
+   "WTO"
+  ],
+  "published_at": "2026-10-31T19:48:30.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "World Trade Organization",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mTEJoSDNkdHV3aVlfUEhXOW8tQ2lYZHl0b0FYTEZOWi1UTDNVcHhUSFRDZlhJQmZteEVWS2RBMDYtZmJWZUctejVhd01URmd5ekp2cnYybUFOMllaT2F3UHZTNFVjWnNsZUNGTTRR?oc=5",
+    "quality": 5
+   }
+  ],
+  "source_quality": 5,
+  "relevance_score": 6,
+  "exam": {
+   "nlsat": 6,
+   "aiat": 5,
+   "ssc": 6
+  },
+  "legal_relevance": 2,
+  "national_importance": 6,
+  "mcq_value": 6,
+  "staticLinks": [
+   "wto"
+  ],
+  "legalLinks": [],
+  "verified": false,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 58.5
+ },
+ {
+  "id": "b6bc11e09a04",
+  "title": "IIM-Bangalore records 100% summer placements, with median stipend at ₹2 lakh per month",
+  "summary": "Consulting accounts for 50.7% of offers; first-time recruiters account for 40% of participating organisations",
+  "content": [
+   "Consulting accounts for 50.7% of offers; first-time recruiters account for 40% of participating organisations"
+  ],
+  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
+  "keyFacts": [
+   "Consulting accounts for 50.7% of offers; first-time recruiters account for 40% of participating organisations"
+  ],
+  "examinerAngles": [
+   "Which person / place / institution / number can be asked?",
+   "What is the static-GK link?"
+  ],
+  "category": "national",
+  "tags": [
+   "national"
+  ],
+  "published_at": "2026-10-31T19:48:15.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/news/national/karnataka/iim-bangalore-records-100-summer-placements-with-median-stipend-at-2-lakh-per-month/article71650178.ece",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 4,
+  "exam": {
+   "nlsat": 4,
+   "aiat": 3,
+   "ssc": 4
+  },
+  "legal_relevance": 2,
+  "national_importance": 6,
+  "mcq_value": 7,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 58
+ },
+ {
+  "id": "52b27d82baed",
+  "title": "Rahul Gandhi appeals to Delhi rally goers to do festival shopping from local traders",
+  "summary": "The Congress leader’s request comes after a traders body in central Delhi urged him to postpone the rally until Deepavali as they expressed concern over its impact on their business.",
+  "content": [
+   "The Congress leader’s request comes after a traders body in central Delhi urged him to postpone the rally until Deepavali as they expressed concern over its impact on their business."
+  ],
+  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
+  "keyFacts": [
+   "The Congress leader’s request comes after a traders body in central Delhi urged him to postpone the rally until Deepavali as they expressed concern over its impact on their business."
+  ],
+  "examinerAngles": [
+   "Which person / place / institution / number can be asked?",
+   "What is the static-GK link?"
+  ],
+  "category": "national",
+  "tags": [
+   "national"
+  ],
+  "published_at": "2026-10-31T19:34:33.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/news/national/rahul-gandhi-appeals-to-delhi-rally-goers-to-do-festival-shopping-from-local-traders/article71650790.ece",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 4,
+  "exam": {
+   "nlsat": 4,
+   "aiat": 3,
+   "ssc": 4
+  },
+  "legal_relevance": 2,
+  "national_importance": 6,
+  "mcq_value": 6,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 57
+ },
+ {
+  "id": "f6897822a790",
+  "title": "India must recalibrate development strategy, build oil reserves: Former RBI Governor C Rangarajan",
+  "summary": "India must recalibrate development strategy, build oil reserves: Former RBI Governor C Rangarajan Deccan Herald",
+  "content": [
+   "India must recalibrate development strategy, build oil reserves: Former RBI Governor C Rangarajan Deccan Herald"
+  ],
+  "whyMatters": "Institutions, constitutional bodies and legislative developments may be tested through names, articles and appointment rules.",
+  "keyFacts": [
+   "India must recalibrate development strategy, build oil reserves: Former RBI Governor C Rangarajan Deccan Herald"
+  ],
+  "examinerAngles": [
+   "Which constitutional article or body is involved?",
+   "Who appoints / removes the authority concerned?",
+   "Which house or committee is involved?"
+  ],
+  "category": "polity",
+  "tags": [
+   "RBI"
+  ],
+  "published_at": "2026-10-31T19:26:11.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "Deccan Herald",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV2l6WnBwU2oxaWF6b0Y3bXc5UVdjN1BxS2V1T0ItWkkxZG1HbUh6bTdsVmlJQjMzVHZ0eWxSNnNCNVFNRDhTdV81V2FYNVhSQzB2NUdCR09yY0VpRkpHTkZFS2REN2dnZEQ4U2VwZU1Fc1dsV0ktcWQxckM5b09WNjFwb20wT2gtMTFJTktWc2dHT3JJeFBXNUg3YlJESnp0Rk1fdkVGRXQ2UG45QVNyd0VZQy13eElwZTliT2V3c0NqcU54X1RkcDFTNmtFNF9CMmNYVw?oc=5",
+    "quality": 5
+   }
+  ],
+  "source_quality": 5,
+  "relevance_score": 7,
+  "exam": {
+   "nlsat": 7,
+   "aiat": 8,
+   "ssc": 7
+  },
+  "legal_relevance": 2,
+  "national_importance": 8,
+  "mcq_value": 6,
+  "staticLinks": [
+   "rbi",
+   "constitution-bodies"
+  ],
+  "legalLinks": [],
+  "verified": false,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 64.5
+ },
+ {
+  "id": "13947ccc842a",
+  "title": "Rajasthan IPS officer removed after ACB probe ordered against IAS husband",
+  "summary": "Rajasthan IPS officer removed after ACB probe ordered against IAS husband",
+  "content": [
+   "Rajasthan IPS officer removed after ACB probe ordered against IAS husband"
+  ],
+  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
+  "keyFacts": [],
+  "examinerAngles": [
+   "Which person / place / institution / number can be asked?",
+   "What is the static-GK link?"
+  ],
+  "category": "national",
+  "tags": [
+   "national"
+  ],
+  "published_at": "2026-10-31T19:22:51.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/news/national/rajasthan/rajasthan-ips-officer-removed-after-acb-probe-ordered-against-ias-husband/article71650040.ece",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 4,
+  "exam": {
+   "nlsat": 4,
+   "aiat": 3,
+   "ssc": 4
+  },
+  "legal_relevance": 2,
+  "national_importance": 6,
+  "mcq_value": 5,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 56
+ },
+ {
+  "id": "48c41848a0a1",
+  "title": "At CEC’s ‘public impeachment’, voters question deletion of names from rolls",
+  "summary": "Student leaders and activists also spoke at the event, which was held at Congress president Mallikarjun Kharge’s residence in New Delhi",
+  "content": [
+   "Student leaders and activists also spoke at the event, which was held at Congress president Mallikarjun Kharge’s residence in New Delhi"
+  ],
+  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
+  "keyFacts": [
+   "Student leaders and activists also spoke at the event, which was held at Congress president Mallikarjun Kharge’s residence in New Delhi"
+  ],
+  "examinerAngles": [
+   "Which person / place / institution / number can be asked?",
+   "What is the static-GK link?"
+  ],
+  "category": "national",
+  "tags": [
+   "national"
+  ],
+  "published_at": "2026-10-31T19:21:07.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/news/national/at-cecs-public-impeachment-voters-question-deletion-of-names-from-rolls/article71650617.ece",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 4,
+  "exam": {
+   "nlsat": 4,
+   "aiat": 3,
+   "ssc": 4
+  },
+  "legal_relevance": 2,
+  "national_importance": 6,
+  "mcq_value": 6,
+  "staticLinks": [
+   "election-commission"
+  ],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 57
+ },
+ {
   "id": "42c7bf2a2450",
   "title": "राष्ट्रीय एकता दिवस के दौरान प्रधानमंत्री के भाषण का मूल पाठ",
   "summary": "राष्ट्रीय एकता दिवस के दौरान प्रधानमंत्री के भाषण का मूल पाठ",
@@ -602,6 +1525,49 @@
   "priority_score": 64.5
  },
  {
+  "id": "566db7ea3891",
+  "title": "Two persons held for possession of country-made guns, explosives",
+  "summary": "Two persons held for possession of country-made guns, explosives",
+  "content": [
+   "Two persons held for possession of country-made guns, explosives"
+  ],
+  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
+  "keyFacts": [],
+  "examinerAngles": [
+   "Which person / place / institution / number can be asked?",
+   "What is the static-GK link?"
+  ],
+  "category": "national",
+  "tags": [
+   "national"
+  ],
+  "published_at": "2026-10-31T19:14:21.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/two-persons-held-for-possession-of-country-made-guns-explosives/article71649177.ece",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 4,
+  "exam": {
+   "nlsat": 4,
+   "aiat": 3,
+   "ssc": 4
+  },
+  "legal_relevance": 2,
+  "national_importance": 6,
+  "mcq_value": 5,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 56
+ },
+ {
   "id": "d78814e88a42",
   "title": "New bridge to be opened near Sholinghur to replace British-era structure",
   "summary": "New bridge to be opened near Sholinghur to replace British-era structure",
@@ -959,6 +1925,51 @@
   "priority_score": 60
  },
  {
+  "id": "0b90c9a12551",
+  "title": "Delhi AQI Close To 200 As Mumbai, Hyderabad Slip Into 'Unhealthy' Zone; Kolkata's Air Worsens",
+  "summary": "Delhi AQI Close To 200 As Mumbai, Hyderabad Slip Into 'Unhealthy' Zone; Kolkata's Air Worsens NDTV",
+  "content": [
+   "Delhi AQI Close To 200 As Mumbai, Hyderabad Slip Into 'Unhealthy' Zone; Kolkata's Air Worsens NDTV"
+  ],
+  "whyMatters": "Index/report questions ask India’s rank, the top-ranked country and the publishing organisation.",
+  "keyFacts": [
+   "Delhi AQI Close To 200 As Mumbai, Hyderabad Slip Into 'Unhealthy' Zone; Kolkata's Air Worsens NDTV"
+  ],
+  "examinerAngles": [
+   "Which person / place / institution / number can be asked?",
+   "What is the static-GK link?"
+  ],
+  "category": "reports",
+  "tags": [
+   "reports"
+  ],
+  "published_at": "2026-10-31T18:35:56.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "NDTV",
+    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNYlpDcTNOY1JOdGJ2OUdQZDJSMmhrc25UWHIyZy0tdE1KLTlaSmRmMWZtWlZOZzZQdW81V0lMSHk0N0ZMTjRwWVA2YVJkek1jSnR4QS1XMnpzQWwzaXJDUHppYm9wQnJiQ1Y1YnZ0ZXdzRUJtS0ZoSm93ZFZXb1QxVE9UdzBEX29haEZlN3BxZVhPcDh3MU1FR09fRUdRSTlPNmx5MGlUaXpheDU1UDRUMzdDU2FsbVlyYjdTVXltbXFqclk4YU1XbEtCblBWT0lFdE1XMUphWmxWT3BwNE02dU9MTGRHSDBJUWYzb01fZW5QUHBnWUcwY2RTejdVV2x0aktNcEhoOEd5OUpERnpsbm9jQUVFOXpIV1BudkZfZmxEbzRZSkcwOTF3?oc=5",
+    "quality": 7
+   }
+  ],
+  "source_quality": 7,
+  "relevance_score": 6,
+  "exam": {
+   "nlsat": 6,
+   "aiat": 5,
+   "ssc": 7
+  },
+  "legal_relevance": 2,
+  "national_importance": 4,
+  "mcq_value": 10,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": false,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 62.5
+ },
+ {
   "id": "9e19011e1852",
   "title": "T.N. govt. raises DA for its employees from 60% to 63%",
   "summary": "A total of 16 lakh government employees, teachers, pensioners, and family pensioners will benefit from the increase",
@@ -1137,6 +2148,98 @@
   "ai_generated": false,
   "is_demo": false,
   "priority_score": 55.9
+ },
+ {
+  "id": "6620741efb06",
+  "title": "Student List | The young Serb unrest",
+  "summary": "Serbia’s student protesters, who built a blockade movement against corruption and political establishment, brought down the government of Aleksandar Vučić",
+  "content": [
+   "Serbia’s student protesters, who built a blockade movement against corruption and political establishment, brought down the government of Aleksandar Vučić"
+  ],
+  "whyMatters": "Questions typically ask which countries/organisations are involved, headquarters, founding years and India’s connection.",
+  "keyFacts": [
+   "Serbia’s student protesters, who built a blockade movement against corruption and political establishment, brought down the government of Aleksandar Vučić"
+  ],
+  "examinerAngles": [
+   "Where is the HQ of the organisation / which countries are involved?",
+   "What is India’s connection or stand?",
+   "When was the agreement / grouping formed?"
+  ],
+  "category": "international",
+  "tags": [
+   "international"
+  ],
+  "published_at": "2026-10-31T18:19:10.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/news/international/student-list-the-young-serb-unrest/article71650616.ece",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 5,
+  "exam": {
+   "nlsat": 5,
+   "aiat": 4,
+   "ssc": 5
+  },
+  "legal_relevance": 2,
+  "national_importance": 6,
+  "mcq_value": 6,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 56.9
+ },
+ {
+  "id": "2c0d39d07cbd",
+  "title": "Ra’am and Joint List | The surge of the other",
+  "summary": "Israel’s Arab parties made historic gains in elections but uncertainty remains whether the opposition bloc would join hands with them to form a government",
+  "content": [
+   "Israel’s Arab parties made historic gains in elections but uncertainty remains whether the opposition bloc would join hands with them to form a government"
+  ],
+  "whyMatters": "Questions typically ask which countries/organisations are involved, headquarters, founding years and India’s connection.",
+  "keyFacts": [
+   "Israel’s Arab parties made historic gains in elections but uncertainty remains whether the opposition bloc would join hands with them to form a government"
+  ],
+  "examinerAngles": [
+   "Where is the HQ of the organisation / which countries are involved?",
+   "What is India’s connection or stand?",
+   "When was the agreement / grouping formed?"
+  ],
+  "category": "international",
+  "tags": [
+   "international"
+  ],
+  "published_at": "2026-10-31T18:17:53.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/news/international/raam-and-joint-list-the-surge-of-the-other/article71650610.ece",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 7,
+  "exam": {
+   "nlsat": 7,
+   "aiat": 6,
+   "ssc": 7
+  },
+  "legal_relevance": 2,
+  "national_importance": 6,
+  "mcq_value": 6,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 62.9
  },
  {
   "id": "245322decfd0",
@@ -1538,6 +2641,52 @@
   "ai_generated": false,
   "is_demo": false,
   "priority_score": 61.4
+ },
+ {
+  "id": "99e022835dee",
+  "title": "Lula da Silva | The Pele of Brazil’s politics",
+  "summary": "The left-wing leader’s victory in Brazil, after finishing second in the first round, reflects the deep roots of the Workers’ Party, which built its support base through resistance to the military dictatorship in the early 1980s, as well as the declining appeal of Bolsonarismo",
+  "content": [
+   "The left-wing leader’s victory in Brazil, after finishing second in the first round, reflects the deep roots of the Workers’ Party, which built its support base through resistance to the military dictatorship in the early 1980s, as well as the declining appeal of Bolsonarismo"
+  ],
+  "whyMatters": "Questions typically ask which countries/organisations are involved, headquarters, founding years and India’s connection.",
+  "keyFacts": [
+   "The left-wing leader’s victory in Brazil, after finishing second in the first round, reflects the deep roots of the Workers’ Party, which built its support base through resistance to the military dictatorship in the early 1980s, as well as the declining appeal of Bolsonarismo"
+  ],
+  "examinerAngles": [
+   "Where is the HQ of the organisation / which countries are involved?",
+   "What is India’s connection or stand?",
+   "When was the agreement / grouping formed?"
+  ],
+  "category": "international",
+  "tags": [
+   "international"
+  ],
+  "published_at": "2026-10-31T17:40:59.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Hindu",
+    "url": "https://www.thehindu.com/news/international/lula-da-silva-the-pele-of-brazils-politics/article71650597.ece",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 5,
+  "exam": {
+   "nlsat": 5,
+   "aiat": 4,
+   "ssc": 5
+  },
+  "legal_relevance": 2,
+  "national_importance": 6,
+  "mcq_value": 6,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 56.9
  },
  {
   "id": "e27e8647364e",
@@ -2940,6 +4089,53 @@
   "ai_generated": false,
   "is_demo": false,
   "priority_score": 59.4
+ },
+ {
+  "id": "bb99d3601676",
+  "title": "Can OCI Cardholder Be Told To Leave India For Joining Protest?",
+  "summary": "Can OCI Cardholder Be Told To Leave India For Joining Protest? Live Law",
+  "content": [
+   "Can OCI Cardholder Be Told To Leave India For Joining Protest? Live Law"
+  ],
+  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
+  "keyFacts": [
+   "Can OCI Cardholder Be Told To Leave India For Joining Protest?"
+  ],
+  "examinerAngles": [
+   "Which Article / Act / provision is involved?",
+   "Bench strength and which judge authored the judgment?",
+   "Which earlier case was relied on, distinguished or overruled?",
+   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
+  ],
+  "category": "legal",
+  "tags": [
+   "legal"
+  ],
+  "published_at": "2026-10-31T16:08:54.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "Live Law",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVHFucDRvR21DNVpyTHNfdDI0NWJfUThsY0ZYcTV5SDdQMncwTmRJUkdfY1FKeVFmWlhSM1hVNEZZM0V2ZngtVDByU0tTb3hjRzkzSG1BWmNtMnp1eU9FTy05Y1F4U19HbW9icVp4Qk9vcnhxakl6VkNqeWI3RjZHNlROUDBSNThE0gGOAUFVX3lxTE9TRlg2bXVDdFV4Wm9hM29wVmE0dE1pak5odW5DdWhfRjUwaDhjY1hPZzVsZjBPeTkwNmhiSlhRUThZckFsZldyQk9scF9Yd3Z5RTREWVVleXJ3RkdLclZQd3B3TDlBVHB5bm1iX09rMDRaTS10M2lxR3FtUWcyRUJHWmlsNjZxNHhyWkhCSXc?oc=5",
+    "quality": 5
+   }
+  ],
+  "source_quality": 5,
+  "relevance_score": 6,
+  "exam": {
+   "nlsat": 7,
+   "aiat": 7,
+   "ssc": 6
+  },
+  "legal_relevance": 10,
+  "national_importance": 7,
+  "mcq_value": 6,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": false,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 68.9
  },
  {
   "id": "8d4ca25f9a2a",
@@ -5664,6 +6860,99 @@
   "priority_score": 64.4
  },
  {
+  "id": "046414c90739",
+  "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+  "summary": "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened.",
+  "content": [
+   "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened."
+  ],
+  "whyMatters": "Questions typically ask which countries/organisations are involved, headquarters, founding years and India’s connection.",
+  "keyFacts": [
+   "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened."
+  ],
+  "examinerAngles": [
+   "Where is the HQ of the organisation / which countries are involved?",
+   "What is India’s connection or stand?",
+   "When was the agreement / grouping formed?"
+  ],
+  "category": "international",
+  "tags": [
+   "UN"
+  ],
+  "published_at": "2026-10-31T12:00:00.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "UN News",
+    "url": "https://news.un.org/feed/view/en/story/2026/10/1168716",
+    "quality": 9
+   }
+  ],
+  "source_quality": 9,
+  "relevance_score": 6,
+  "exam": {
+   "nlsat": 6,
+   "aiat": 5,
+   "ssc": 6
+  },
+  "legal_relevance": 2,
+  "national_importance": 7,
+  "mcq_value": 5,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 61.9
+ },
+ {
+  "id": "ef02487c5ab7",
+  "title": "Samarkand: A ‘living museum’ on the Silk Road grapples with a tourism boom",
+  "summary": "As the sun sets over Samarkand’s majestic Registan, its last rays glint across the turquoise mosaics. Dusk settles on the ancient square where great trade routes have crossed for centuries.",
+  "content": [
+   "As the sun sets over Samarkand’s majestic Registan, its last rays glint across the turquoise mosaics. Dusk settles on the ancient square where great trade routes have crossed for centuries."
+  ],
+  "whyMatters": "Questions typically ask which countries/organisations are involved, headquarters, founding years and India’s connection.",
+  "keyFacts": [
+   "As the sun sets over Samarkand’s majestic Registan, its last rays glint across the turquoise mosaics.",
+   "Dusk settles on the ancient square where great trade routes have crossed for centuries."
+  ],
+  "examinerAngles": [
+   "Where is the HQ of the organisation / which countries are involved?",
+   "What is India’s connection or stand?",
+   "When was the agreement / grouping formed?"
+  ],
+  "category": "international",
+  "tags": [
+   "international"
+  ],
+  "published_at": "2026-10-31T12:00:00.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "UN News",
+    "url": "https://news.un.org/feed/view/en/story/2026/10/1168711",
+    "quality": 9
+   }
+  ],
+  "source_quality": 9,
+  "relevance_score": 6,
+  "exam": {
+   "nlsat": 6,
+   "aiat": 5,
+   "ssc": 6
+  },
+  "legal_relevance": 2,
+  "national_importance": 7,
+  "mcq_value": 6,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 62.9
+ },
+ {
   "id": "836de590856b",
   "title": "DA for Tamil Nadu government employees increases from 60% to 63%",
   "summary": "A total of 16 lakh government employees, teachers, pensioners, and family pensioners would benefit from the increase",
@@ -7102,6 +8391,54 @@
   "priority_score": 53.9
  },
  {
+  "id": "6cf0dce7d2bf",
+  "title": "Cumulative 50-75bps hike likely in current RBI tightening cycle: Report",
+  "summary": "Cumulative 50-75bps hike likely in current RBI tightening cycle: Report bfsi.economictimes.indiatimes.com",
+  "content": [
+   "Cumulative 50-75bps hike likely in current RBI tightening cycle: Report bfsi.economictimes.indiatimes.com"
+  ],
+  "whyMatters": "Policy rates, regulators and economic indicators can be tested as facts (who announced, what figure) and as definitions.",
+  "keyFacts": [
+   "Cumulative 50-75bps hike likely in current RBI tightening cycle: Report bfsi.economictimes.indiatimes.com"
+  ],
+  "examinerAngles": [
+   "Which institution announced it and under which Act?",
+   "What is the exact rate / figure announced?",
+   "Define the term (repo rate, CPI, GDP, fiscal deficit)."
+  ],
+  "category": "economy",
+  "tags": [
+   "RBI"
+  ],
+  "published_at": "2026-10-31T10:48:05.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "bfsi.economictimes.indiatimes.com",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR3pLeS1xQnMwYklzQWdBVGVpQ2g2Nm9NNVptMEFRZTlBNGFYLWZ3UGRWUnFfV0F4SmJYeDRpLWtiakFnMnBVSlFxQWN6V25xSGtZMURsbjF1a2xMLU40djBJX1FtaXpuWmlHcVprdGt5cWZHaVFZSGY1VFB6R2p1SEFmaFJIMHFPOVhiMVJlMU1VLTNCU2d6QjM4Zmc0akxqeUFubUhHYzBfM1QxQlBfUWNRSGkzeENQQ1JPU0Zfbmt0NVNaaFNoZUFRakVrcHdtLWRiWk1TTjhPM1I4Y29N0gHkAUFVX3lxTFBxZllBVjVHZEg3V1dCaTVZaUhtVDFwOFMzN29nY1FVV0p5MmREMlFGUS1ublZmUjJlc013ZUhrWDhGTERmTFpDYU5QTldSaUhvelVkeHNwd3lKYko2Zks4ZmF5M3dsSkRLYnU5bFF3cmVvQ2ZCck1uclpUR3ZGWExUbTNfNkVmZmF6VUo1N2Z2RVgySHZwLVl6YXJLMzhwMk5mRVNaSlp5OWdPVld3NGo4Rk83SGUwQS1ZWHY0U2p1M0JpV1VxclF4ZTktdkdfY3VRcEZ6ZUsyNUctc0pXTUprUDZ0VQ?oc=5",
+    "quality": 5
+   }
+  ],
+  "source_quality": 5,
+  "relevance_score": 7,
+  "exam": {
+   "nlsat": 7,
+   "aiat": 6,
+   "ssc": 7
+  },
+  "legal_relevance": 2,
+  "national_importance": 7,
+  "mcq_value": 6,
+  "staticLinks": [
+   "rbi"
+  ],
+  "legalLinks": [],
+  "verified": false,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 59.9
+ },
+ {
   "id": "ed01bd3fa772",
   "title": "Society that accepts unverified claims and fears questions is vulnerable to authoritarianism: Justice Bhuyan",
   "summary": "Speaking at the University of Science and Technology, Meghalaya, the Supreme Court judge said building a scientific temper must extend beyond laboratories to the capacity of youths and students to think rationally, and urged a shift from ‘us’ and ‘they’ to the Preamble’s ‘we’",
@@ -7241,6 +8578,11 @@
    {
     "name": "www.nationpathindia.com",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONGIyTXJES2ltSUh2amN5UUNuNHZuM0cwWVRnd3JVYlpCdUNrazhDRWpjMVpLY0hMVzVsWko0N2ZMY3UxZkVSVkRpanJnOGdOWkEyTVNmNFpnc05hVkVKNnRNMVlySGExUU5tNTcxLVlLRXdzaGxna1RGWDlWM2ZCTllNalc?oc=5",
+    "quality": 5
+   },
+   {
+    "name": "The Tribune",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTWpKbGVaaU5ETkpiOFV3YVY2Qk5nTmNmYWdaX1JXWXVxWDNGeFRfSkNDbF9FV1g5dC1kUzhuaWZ3ZnJGZzJuWUd2UnpaRXh5S3Y3UEgza3RrZnoySFNnYVl5NkxUV2tNcmRWcVNkNURIZG1kNFJhNVh1U3RDekREcW1na3pmY09EYThmWDhQZTVLUXJqMXNUTTctVWMtOHcybGd5SkpudEtic19LTjU1dmRn0gG2AUFVX3lxTE9BS1hLbTBwTTBsT294MG80c0tjZUZLcV9ZQmMwMENVODFwRmFCMWR5a0NXLUZoNzdIU3M1dEQwRDg1SG1RZDNRZ21qSWU4WVZCdlNLeElqck80NmRpSmtPRDVnN182UGxhM2psOWpSUkhYTWFWMUVEb2RGVUxfbmIxQ2ZIdDJqTTRhT0xTbkF1SlpiUjRhWEZleUYtRTdQNnFGTDVYTllvZXIzUVFJb3htbFRlbUpR?oc=5",
     "quality": 5
    }
   ],
@@ -7633,6 +8975,52 @@
   "ai_generated": false,
   "is_demo": false,
   "priority_score": 58.9
+ },
+ {
+  "id": "44edeecde61c",
+  "title": "Ashutosh Dixit, a strong advocate of Atmanirbharta initiatives who played key roles in Kargil War & Op Si",
+  "summary": "Ashutosh Dixit, a strong advocate of Atmanirbharta initiatives who played key roles in Kargil War & Op Si The Times of India",
+  "content": [
+   "Ashutosh Dixit, a strong advocate of Atmanirbharta initiatives who played key roles in Kargil War & Op Si The Times of India"
+  ],
+  "whyMatters": "Questions typically ask which countries/organisations are involved, headquarters, founding years and India’s connection.",
+  "keyFacts": [
+   "Ashutosh Dixit, a strong advocate of Atmanirbharta initiatives who played key roles in Kargil War & Op Si The Times of India"
+  ],
+  "examinerAngles": [
+   "Where is the HQ of the organisation / which countries are involved?",
+   "What is India’s connection or stand?",
+   "When was the agreement / grouping formed?"
+  ],
+  "category": "international",
+  "tags": [
+   "international"
+  ],
+  "published_at": "2026-10-31T10:29:00.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPWlBYdzNHRy0tT0EtUTRadERkRU5tYnlCNmdxU0cyekVUQUVvZ0k4dHZWSnlJeXYyRkhUTVphQUV1cl90SmRQWmhjZGk0LWYyT1lhcWY3VTY5cUM2aHFIZmd2cDhnZng2QzFsRldFNEFtU1gtc0plSUpNVmIwakJjcHJNdnFLVzNZQWNWWW9QNDRwcUE0U2JEdlpjUm5vbEEyTmxsNGkzRWx1WG1JcnVRTEY5dVFrZVJHSlRPNi1FTjk5Y0RLT0hfb3A3WUZXODIwUHRYLV95TXkwLUxTcnV4OHUtYWhnald2Uk5UZ19DeU10enlnc2dWX0RBakp6WFNCTDBBY2sxaEJudm9LeTN0WkpNblc5SkEzZWtURXNwbjhvdEF5TjVtcUJvbVIwd1BGM1p3Ukd0UjHSAb4CQVVfeXFMTU1Ga29pTHRkN2d6WTBreEFKaFFRSDk5XzBVR1RaMzVPbk9lbnA5cnpldGxJSFZ4Ty0wQXhmYWpQSlIxMEhMQ2lGY1VPbFB1STdUaklVcXBBN2ZXeS1LWlFmbFJGZW1CUEtQT0x1b05pS1h0OHJDU0lDeE9GRVVLVHY4ZGM2NTlzSGRVMzMwTzZDdXV6TE1pSG5FZVljWnFoSUNTa1FNOXdwbVNUS1kyYjRnd3JXR0JmYVZjd2pZYlpZa0R5NDloT0VFTWg5RGVlY3hlc0N6LVJ0bEF3LUtZNFcwakdnZGVNWWdKaVUycXBNVmp2YTM4R2llR3ZmTmJJWk14ZVItN0ZQMEFYcWtjYzJqNFd0aHVaT2ZwdGM5SWhKRmxaUU1sYW5IanBqdkdnMFJFTGNNTzRpOEU3UWJn?oc=5",
+    "quality": 5
+   }
+  ],
+  "source_quality": 5,
+  "relevance_score": 5,
+  "exam": {
+   "nlsat": 5,
+   "aiat": 4,
+   "ssc": 5
+  },
+  "legal_relevance": 2,
+  "national_importance": 6,
+  "mcq_value": 6,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": false,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 52.4
  },
  {
   "id": "757fc23ee287",
@@ -8370,6 +9758,51 @@
   "priority_score": 62.4
  },
  {
+  "id": "fc85d2da51ef",
+  "title": "OpenAI, Google, Microsoft and Anthropic Back One Opt-Out Signal for AI Training, but Indian Publishers Want More",
+  "summary": "OpenAI, Google, Microsoft and Anthropic Back One Opt-Out Signal for AI Training, but Indian Publishers Want More Elets CIO",
+  "content": [
+   "OpenAI, Google, Microsoft and Anthropic Back One Opt-Out Signal for AI Training, but Indian Publishers Want More Elets CIO"
+  ],
+  "whyMatters": "Appointments are tested as person → post → predecessor and the appointing authority.",
+  "keyFacts": [
+   "OpenAI, Google, Microsoft and Anthropic Back One Opt-Out Signal for AI Training, but Indian Publishers Want More Elets CIO"
+  ],
+  "examinerAngles": [
+   "Which person / place / institution / number can be asked?",
+   "What is the static-GK link?"
+  ],
+  "category": "appointments",
+  "tags": [
+   "appointments"
+  ],
+  "published_at": "2026-10-31T09:58:38.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "Elets CIO",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRjcwMXBMeWs1ODQ5bVBZSE5jUWY4d1U0Y0NjYUxrd2VLTGpINEVCb19UMGpZazdaNDNJdjJNRDdGOGIzRTZSLV9DS1BDWS1JdS1HbUFuai1GRlZGVHdIWGZqMmZnMnQ1NkMyRXpQb2JPbmNncDJaNnhEeUdvd24xV1F0VExOUVVZQzVDanVBVk55Zjluckd3TmFzZ3FUa0EzZXVRQjl2QXZEcG92MHRXRXdQNXJoXzZrZ2diLWJDR2ljanp3Um5OdnZqdUdfYXplZUpCb3Q4VldlV1lVbXJiZ0VR?oc=5",
+    "quality": 5
+   }
+  ],
+  "source_quality": 5,
+  "relevance_score": 6,
+  "exam": {
+   "nlsat": 6,
+   "aiat": 5,
+   "ssc": 7
+  },
+  "legal_relevance": 2,
+  "national_importance": 4,
+  "mcq_value": 9,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": false,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 55.4
+ },
+ {
   "id": "4bfa9d3c9469",
   "title": "Google’s parent company Alphabet’s shares plunge 12.6%, loses almost $500 billion in market value",
   "summary": "Alphabet shares plunged a record 12.64% on Thursday—wiping out $482 billion in market value—and fell another 0.42% in Friday pre-market trading, following quarterly earnings that fueled investor anxiety over whether massive AI investments will pay off.",
@@ -9022,6 +10455,54 @@
   "priority_score": 51.4
  },
  {
+  "id": "c7781cec716d",
+  "title": "Domestic demand, manufacturing to drive 6.7% GDP growth in FY27: RBI",
+  "summary": "Domestic demand, manufacturing to drive 6.7% GDP growth in FY27: RBI DD News",
+  "content": [
+   "Domestic demand, manufacturing to drive 6.7% GDP growth in FY27: RBI DD News"
+  ],
+  "whyMatters": "Policy rates, regulators and economic indicators can be tested as facts (who announced, what figure) and as definitions.",
+  "keyFacts": [
+   "Domestic demand, manufacturing to drive 6.7% GDP growth in FY27: RBI DD News"
+  ],
+  "examinerAngles": [
+   "Which institution announced it and under which Act?",
+   "What is the exact rate / figure announced?",
+   "Define the term (repo rate, CPI, GDP, fiscal deficit)."
+  ],
+  "category": "economy",
+  "tags": [
+   "RBI"
+  ],
+  "published_at": "2026-10-31T08:56:24.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "DD News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbEtrMGdQV1lvaGFFYWJteThIZmNEOGZXS2RsQ05RblFsalExcllVdzJkU2RHYU1tU0s5Sm1PNnNFVmVzMS1EYUhpRU9wdU9EY1Z6MEtFd1RsNldhZXZ2SVpTWVVFNS14bjdENGZYM1BLbzFnNnJtZnQ0b0dOdC1xZVYxSml1d2ZSTHlJRmpkOUY0LVMxN2c?oc=5",
+    "quality": 5
+   }
+  ],
+  "source_quality": 5,
+  "relevance_score": 7,
+  "exam": {
+   "nlsat": 7,
+   "aiat": 6,
+   "ssc": 7
+  },
+  "legal_relevance": 2,
+  "national_importance": 7,
+  "mcq_value": 6,
+  "staticLinks": [
+   "rbi"
+  ],
+  "legalLinks": [],
+  "verified": false,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 59.9
+ },
+ {
   "id": "6bfdf66f7805",
   "title": "A decisive statement from the Moroccan Royal Court following the failure of a UN Security Council vote",
   "summary": "A decisive statement from the Moroccan Royal Court following the failure of a UN Security Council vote صوت الإمارات",
@@ -9302,6 +10783,101 @@
   "priority_score": 55.9
  },
  {
+  "id": "286200242498",
+  "title": "Delhi High Court Exempts PM Modi Flight Records From RTI, Overturns CIC Order On Security Grounds",
+  "summary": "Delhi High Court Exempts PM Modi Flight Records From RTI, Overturns CIC Order On Security Grounds LawChakra",
+  "content": [
+   "Delhi High Court Exempts PM Modi Flight Records From RTI, Overturns CIC Order On Security Grounds LawChakra"
+  ],
+  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
+  "keyFacts": [
+   "Delhi High Court Exempts PM Modi Flight Records From RTI, Overturns CIC Order On Security Grounds LawChakra"
+  ],
+  "examinerAngles": [
+   "Which Article / Act / provision is involved?",
+   "Bench strength and which judge authored the judgment?",
+   "Which earlier case was relied on, distinguished or overruled?",
+   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
+  ],
+  "category": "legal",
+  "tags": [
+   "High Court"
+  ],
+  "published_at": "2026-10-31T08:30:05.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "LawChakra",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbUM3NFVUTzZnMWMxWEZOcjJpdXBab0xUdjdMM1h5QmdwVFl3QVZ2N0sydl9WcnRvVFBsT19oN21aQUN5NXJ0cUpBdndpcU4zbXZ5R2dlRUFqVlVPMjdCZDBRYnpaakNHMnBKRDVsUXp6by1xcDBfMXRDNzdXYnhsRDBB?oc=5",
+    "quality": 5
+   }
+  ],
+  "source_quality": 5,
+  "relevance_score": 6,
+  "exam": {
+   "nlsat": 7,
+   "aiat": 7,
+   "ssc": 6
+  },
+  "legal_relevance": 10,
+  "national_importance": 7,
+  "mcq_value": 6,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": false,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 68.9
+ },
+ {
+  "id": "328b92ac2ad6",
+  "title": "RBI’s USD-INR Swap Facility Sparks Unprecedented Forex Inflows, Banks Raise USD 73 Billion in 11 weeks",
+  "summary": "RBI’s USD-INR Swap Facility Sparks Unprecedented Forex Inflows, Banks Raise USD 73 Billion in 11 weeks DD News",
+  "content": [
+   "RBI’s USD-INR Swap Facility Sparks Unprecedented Forex Inflows, Banks Raise USD 73 Billion in 11 weeks DD News"
+  ],
+  "whyMatters": "Policy rates, regulators and economic indicators can be tested as facts (who announced, what figure) and as definitions.",
+  "keyFacts": [
+   "RBI’s USD-INR Swap Facility Sparks Unprecedented Forex Inflows, Banks Raise USD 73 Billion in 11 weeks DD News"
+  ],
+  "examinerAngles": [
+   "Which institution announced it and under which Act?",
+   "What is the exact rate / figure announced?",
+   "Define the term (repo rate, CPI, GDP, fiscal deficit)."
+  ],
+  "category": "economy",
+  "tags": [
+   "RBI"
+  ],
+  "published_at": "2026-10-31T08:27:30.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "DD News",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTzY0NlVINGVMV1hHLWFCOU5WdHFfVHYwa0NTZU9zdkxvT292LS1wV2RLZWZDanQ4alhWbmFkYmVzblJLUThxbzRKMHdDNUY3eW5rLUI5eDJmYW9fNXZHTnNuV3I5eDJTZ1FOZVU5bGE4SDFsZTRyVnI0bVVvNzZNbVBNSGdLdHkySDBYNXAxNTYwZksxZUl4bGVEWnFWYVhhR0ozUHhXc1J5UjNKa3l2QjhxZDVoM0hiUjI1eksycU5BYV94?oc=5",
+    "quality": 5
+   }
+  ],
+  "source_quality": 5,
+  "relevance_score": 7,
+  "exam": {
+   "nlsat": 7,
+   "aiat": 6,
+   "ssc": 7
+  },
+  "legal_relevance": 2,
+  "national_importance": 7,
+  "mcq_value": 8,
+  "staticLinks": [
+   "rbi"
+  ],
+  "legalLinks": [],
+  "verified": false,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 61.9
+ },
+ {
   "id": "a3d949c823c4",
   "title": "Ethiopia Overtakes Tanzania To Become Top LDC Services Exporter: WTO-OECD Report",
   "summary": "Ethiopia Overtakes Tanzania To Become Top LDC Services Exporter: WTO-OECD Report The Reporter Ethiopia",
@@ -9534,6 +11110,56 @@
   "ai_generated": false,
   "is_demo": false,
   "priority_score": 72.4
+ },
+ {
+  "id": "8828fc99d040",
+  "title": "Supreme Court Strikes Down APTEL Review Order For Violating Article 141",
+  "summary": "Supreme Court Strikes Down APTEL Review Order For Violating Article 141 Indian Masterminds",
+  "content": [
+   "Supreme Court Strikes Down APTEL Review Order For Violating Article 141 Indian Masterminds"
+  ],
+  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
+  "keyFacts": [
+   "Supreme Court Strikes Down APTEL Review Order For Violating Article 141 Indian Masterminds"
+  ],
+  "examinerAngles": [
+   "Which Article / Act / provision is involved?",
+   "Bench strength and which judge authored the judgment?",
+   "Which earlier case was relied on, distinguished or overruled?",
+   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
+  ],
+  "category": "legal",
+  "tags": [
+   "Supreme Court",
+   "Constitution"
+  ],
+  "published_at": "2026-10-31T07:58:42.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "Indian Masterminds",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOakN4UnIyWjhBWGNCUVIxdDFsdlVBNFMwT2FBS0YxazJHc2JPYzZ3Um9CRlZJZ3oxaktXMlFabG9SSnAzam5TNElIbUtHNERmMDd2eXFsU1RsemdhRkxfeXNwWHpRWW1FS2RHZWg3STBUaG1Cak0yRHlTWExWVm5rcklBS0t5VmJjbkRkbl84Z3h4MnlsNUE?oc=5",
+    "quality": 5
+   }
+  ],
+  "source_quality": 5,
+  "relevance_score": 8,
+  "exam": {
+   "nlsat": 9,
+   "aiat": 9,
+   "ssc": 8
+  },
+  "legal_relevance": 10,
+  "national_importance": 9,
+  "mcq_value": 7,
+  "staticLinks": [
+   "supreme-court"
+  ],
+  "legalLinks": [],
+  "verified": false,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 78.9
  },
  {
   "id": "98ece4912ac2",
@@ -10657,6 +12283,53 @@
   "priority_score": 68.9
  },
  {
+  "id": "7c4c8eb47706",
+  "title": "A Scottish family travelled from Florida to Britain for a holiday in 2025 but did not return; the UK Supr",
+  "summary": "A Scottish family travelled from Florida to Britain for a holiday in 2025 but did not return; the UK Supr The Times of India",
+  "content": [
+   "A Scottish family travelled from Florida to Britain for a holiday in 2025 but did not return; the UK Supr The Times of India"
+  ],
+  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
+  "keyFacts": [
+   "A Scottish family travelled from Florida to Britain for a holiday in 2025 but did not return; the UK Supr The Times of India"
+  ],
+  "examinerAngles": [
+   "Which Article / Act / provision is involved?",
+   "Bench strength and which judge authored the judgment?",
+   "Which earlier case was relied on, distinguished or overruled?",
+   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
+  ],
+  "category": "legal",
+  "tags": [
+   "legal"
+  ],
+  "published_at": "2026-10-31T05:41:00.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNdTc2cEhVeTJtdU9ZYnBOUEFPTDZ2WU8tenNmU2VpYk9CWUlRaTQ5b21Xa0ZwRTdxUUVrQ1B0TXJKbDBOUnkyaVlobURrMXh1eUJvNUx1X29ZNlZDeVREWFBjYldoLXZqZlVkREFLd28tYlZFM29mbHUwdU5kdnR6SDlzQTJHVFpJSGxyR1g3N0MzSTIwaFAzTWQ0RlJQRlV1WWVBbmNnVm1JLUdxX1JQTFE4S2ZCRFJBUUVPTVF4anYtV2tZcjAxb0xzcnZLN3BaZjItQzY2R3NlbXhqQjc5WVFHbjdjS0YxZGtHdHJmTmg0cE1lclg0S0JaSmFKU1FBZlNrU0xuUUstSUhySjNsRHl4QVJxb0xXS3hsX1lpTGpoWUlFSzJMYllYWnRkaVlEc0R1NmtNN0cwZUJmbmJRSHlKMG53aTlhNFNLSFRNZ2RCZ0ZoeTI1Y0dwVkRuNTlWeThlODlnQkxicmg3dmhJ0gH0AkFVX3lxTE1rbVpFTTdZbHlHQW5TbW5ndTFJTGd4Ni1PeEtoZlcyUHllOGZwVU83V0FuRnViSUxPVFlQME5LMmcxT2RfS2Q3SmN5Q0hVeGdBb2ZDUzhpUlFXOFNKZm9ySTd6QV9YQTJCN2JfSVQzMXpNVWNxbjhwMzNQVzc5b0ZVdHA5NmNpZW5ZYXlWYlhWYV85bWhneXlGWjhrNzgyWDJiZ2xTTHp5WjdUOHdhNnN3b2pRckNEVEppMUxYQWFGUUM5VFQ2SGhpMlZKOGJTT3JCaHZFRlVuMjZZcktZb0gxZ29DOExyLW1VMTVfUGZuNFEwenhiZzN5MHQ0bmVDcmhHYS1PckVJejZaVXg3bG1rc2NxX3NkelpON1FTRHFpRW9KUGJFVWRnblluNXUyR2hWNTREcTB4ZE81aGZZbTRWOXRONHdqdWJBVDdmb3JMUkVFUmNLQkdhUmhUWi1DaWsyUXVBazAwMWJoWkhDUS1kTFNjSA?oc=5",
+    "quality": 5
+   }
+  ],
+  "source_quality": 5,
+  "relevance_score": 6,
+  "exam": {
+   "nlsat": 7,
+   "aiat": 7,
+   "ssc": 6
+  },
+  "legal_relevance": 8,
+  "national_importance": 7,
+  "mcq_value": 7,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": false,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 66.9
+ },
+ {
   "id": "6a3dc5224610",
   "title": "Meta settles, leaving Snap sole defendant in new social media trial",
   "summary": "Jury selection began on Wednesday, and opening statements are scheduled for November 4",
@@ -10745,6 +12418,54 @@
   "ai_generated": false,
   "is_demo": false,
   "priority_score": 58.4
+ },
+ {
+  "id": "76fd7ff17ddd",
+  "title": "SGB 2021-22 Series VII premature redemption due on 2 November: Investors to pocket 200% gains; check RBI quoted price",
+  "summary": "SGB 2021-22 Series VII premature redemption due on 2 November: Investors to pocket 200% gains; check RBI quoted price Livemint",
+  "content": [
+   "SGB 2021-22 Series VII premature redemption due on 2 November: Investors to pocket 200% gains; check RBI quoted price Livemint"
+  ],
+  "whyMatters": "Policy rates, regulators and economic indicators can be tested as facts (who announced, what figure) and as definitions.",
+  "keyFacts": [
+   "SGB 2021-22 Series VII premature redemption due on 2 November: Investors to pocket 200% gains; check RBI quoted price Livemint"
+  ],
+  "examinerAngles": [
+   "Which institution announced it and under which Act?",
+   "What is the exact rate / figure announced?",
+   "Define the term (repo rate, CPI, GDP, fiscal deficit)."
+  ],
+  "category": "economy",
+  "tags": [
+   "RBI"
+  ],
+  "published_at": "2026-10-31T05:35:04.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "Livemint",
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQS1Z5d3VJYUU0YUxfc2hLLTZGb0doUV9JVnFGWjJHcXJsNHJ4STRmZEctSktma2ZDbWtBRHVGYWRMZ3FrSVFTdHUtd0o5WDZSTTZpVW5ZZjBHeGV3YlZvM21IWXBTdU1tMUdhc3h3V1hOWmRWM2dYcUpVWk9HdzhCT3F5WWFZZVZ1LVFMeG9DblBaUzBnX05pV1c0elNqVVFJQ0NjbGtNUDZEdWJUZDJvMmktUEdSZWpPUWNmZ3h1QTBHRjdTVk9pajcyOWJsdHVfWGo4Ukc3WVZzYWQ0RmNaMWJaeU5JeVdfS053OUFyZlg5bmF3aTZCX3U0aFU2MFdHT2ZnQmYzMEJaY1drRFlR0gGUAkFVX3lxTE52ZlJXUk9rZHc5WmYtREhleFcxMFFUR1lFY2FVaHFleFc4NWRmVnk5dnh6RmdjSHotYkwyd2prRm0wcm9LN1lnRGczY3k0ZG9VS1pLMHRtbjBSVDlzR0ZBWVhtTmU1SnhaWmxXeXZydl9HVWdoT3VJTU1KQ1JNd0dEYzhjVlpWNEV0MnQ3dFhYbnlqbXNqc2JGN296SGFmd1dud2QtMDNuR2JhdWhldU85ZmRaQzIycE9iMWNNQmxUcjJDQ0NfTDV5X2swWnRxNUI3M2ViNkN5eFNVYlZKVWt5NVlDMTJ0X1RHNC10LWtSSUpzT0xpR2ZId3hydDBVU3M3bUtjVEN0cTNTazdTNW8xV19RTQ?oc=5",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 7,
+  "exam": {
+   "nlsat": 7,
+   "aiat": 6,
+   "ssc": 7
+  },
+  "legal_relevance": 2,
+  "national_importance": 7,
+  "mcq_value": 7,
+  "staticLinks": [
+   "rbi"
+  ],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 65.4
  },
  {
   "id": "bf0100893b59",
@@ -12978,6 +14699,55 @@
   "ai_generated": false,
   "is_demo": false,
   "priority_score": 56.9
+ },
+ {
+  "id": "e9a36bf2bbad",
+  "title": "Supreme Court seeks stricter action on live-streamed court clips | India News",
+  "summary": "Supreme Court seeks stricter action on live-streamed court clips | India News Hindustan Times",
+  "content": [
+   "Supreme Court seeks stricter action on live-streamed court clips | India News Hindustan Times"
+  ],
+  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
+  "keyFacts": [
+   "Supreme Court seeks stricter action on live-streamed court clips | India News Hindustan Times"
+  ],
+  "examinerAngles": [
+   "Which Article / Act / provision is involved?",
+   "Bench strength and which judge authored the judgment?",
+   "Which earlier case was relied on, distinguished or overruled?",
+   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
+  ],
+  "category": "legal",
+  "tags": [
+   "Supreme Court"
+  ],
+  "published_at": "2026-10-31T02:04:10.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "Hindustan Times",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS2RNMHN6WFdkUkxIY19IYTN1cXI1RkR0SWdWRldza0VlTkNKc09Ra0MwczhEUTRqY2tIaVg4Qm9LeWtudHluRUQzTjYtSnlieEFIQUF0UVJfaUNVZU5HNDBneWJiVWoxeC1QekRFQmZ4b3hQZENCcWVJbFJQT2tRRldBQUd6V2xWMUhWeHd1XzZIaHNTZmVZWkgxb3RUV2JmZ1NfQXhLeUlaYVNuM01mUWF0eHp3cGfSAbwBQVVfeXFMTkt1NWJPalhXYjdYaTlDWHYwVDVkS3FkOFVPNnU4ZHhsUGxLanIzVUZWY3o3cnpDZTdGbFowMHE4OGhjS2JwVDlsb1NjVzNDY3c1VFB0OC1ZbGdxdFBocEo5T3puQ3lqMF9uZW1NdzR2MmFDQW1PdW9Tdm80dkQ0djZXWW1wQkc2YTVPZ0R0aXJ5MGFzbF9yQkFLUi1TdzQ4MjJYVkdmZ0thc0xRYU9JSEdyRnp2bmtDQjdjRmM?oc=5",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 8,
+  "exam": {
+   "nlsat": 9,
+   "aiat": 9,
+   "ssc": 8
+  },
+  "legal_relevance": 10,
+  "national_importance": 9,
+  "mcq_value": 6,
+  "staticLinks": [
+   "supreme-court"
+  ],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 82.4
  },
  {
   "id": "8fdc9cfa9ff5",
@@ -15729,6 +17499,54 @@
   "priority_score": 59.4
  },
  {
+  "id": "b793763117d4",
+  "title": "Forex intervention aimed at containing volatility, not targeting rupee level: RBI",
+  "summary": "Forex intervention aimed at containing volatility, not targeting rupee level: RBI DD News",
+  "content": [
+   "Forex intervention aimed at containing volatility, not targeting rupee level: RBI DD News"
+  ],
+  "whyMatters": "Policy rates, regulators and economic indicators can be tested as facts (who announced, what figure) and as definitions.",
+  "keyFacts": [
+   "Forex intervention aimed at containing volatility, not targeting rupee level: RBI DD News"
+  ],
+  "examinerAngles": [
+   "Which institution announced it and under which Act?",
+   "What is the exact rate / figure announced?",
+   "Define the term (repo rate, CPI, GDP, fiscal deficit)."
+  ],
+  "category": "economy",
+  "tags": [
+   "RBI"
+  ],
+  "published_at": "2026-10-30T19:21:32.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "DD News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPXzRzWi0wWU1iaWllZVZRQXhybU5aSl9wdnc1U0Z6aGJPYlRORmZJYTRHb0FwYm81UEdPTVk1UVhtNDktamFFTnJ0WnNKN2s5ZTI2SGZ5VFl0ZlN3dWg2SHh4ci1oQXNYMllQdEtsd2lfdXNzSUpScjFTZ1NDdE9aM0ltdFBmajVVTURPbG1haTFsaFJiMXFkSHFueUtmRnRFeFFJVEN2VkY?oc=5",
+    "quality": 5
+   }
+  ],
+  "source_quality": 5,
+  "relevance_score": 7,
+  "exam": {
+   "nlsat": 7,
+   "aiat": 6,
+   "ssc": 7
+  },
+  "legal_relevance": 2,
+  "national_importance": 7,
+  "mcq_value": 5,
+  "staticLinks": [
+   "rbi"
+  ],
+  "legalLinks": [],
+  "verified": false,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 58.9
+ },
+ {
   "id": "a6f653107ba5",
   "title": "Andhra Pradesh to spend ₹3,000 crore on irrigation drain modernisation in Godavari region",
   "summary": "Modernisation of irrigation drains will offer a permanent solution to crop inundation problems, says Chief Minister, adding that 4.68 TMC of rainwater has been diverted to reservoirs during Cyclone Arnab",
@@ -15908,6 +17726,54 @@
   "ai_generated": false,
   "is_demo": false,
   "priority_score": 77.9
+ },
+ {
+  "id": "2529b56c512e",
+  "title": "RBI MPC meeting begins; inflation, growth outlook in focus",
+  "summary": "RBI MPC meeting begins; inflation, growth outlook in focus DD News",
+  "content": [
+   "RBI MPC meeting begins; inflation, growth outlook in focus DD News"
+  ],
+  "whyMatters": "Policy rates, regulators and economic indicators can be tested as facts (who announced, what figure) and as definitions.",
+  "keyFacts": [
+   "RBI MPC meeting begins; inflation, growth outlook in focus DD News"
+  ],
+  "examinerAngles": [
+   "Which institution announced it and under which Act?",
+   "What is the exact rate / figure announced?",
+   "Define the term (repo rate, CPI, GDP, fiscal deficit)."
+  ],
+  "category": "economy",
+  "tags": [
+   "RBI"
+  ],
+  "published_at": "2026-10-30T19:08:09.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "DD News",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeU1neUtNdVUzUmE0LVdFb0VSbTk2dlduNy1Gdkg3WklLaHotNnN2NktLdUFUak0wemVTaS1Xby1KNThNaHJEVHdBNkNLV2t2WUxkcnR1SkJuOU9ZRDY4VTBsS3B5djlDbmxwbVdjalFMRGFOdU9MX0ZhTmNqa0cwZExUcGJMSVRJLUE?oc=5",
+    "quality": 5
+   }
+  ],
+  "source_quality": 5,
+  "relevance_score": 7,
+  "exam": {
+   "nlsat": 7,
+   "aiat": 6,
+   "ssc": 7
+  },
+  "legal_relevance": 2,
+  "national_importance": 7,
+  "mcq_value": 5,
+  "staticLinks": [
+   "rbi"
+  ],
+  "legalLinks": [],
+  "verified": false,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 58.9
  },
  {
   "id": "73d6628f8f90",
@@ -16653,6 +18519,54 @@
   "ai_generated": false,
   "is_demo": false,
   "priority_score": 67.9
+ },
+ {
+  "id": "6acc542f0713",
+  "title": "RBI revises capital adequacy norms for banks",
+  "summary": "RBI revises capital adequacy norms for banks DD News",
+  "content": [
+   "RBI revises capital adequacy norms for banks DD News"
+  ],
+  "whyMatters": "Policy rates, regulators and economic indicators can be tested as facts (who announced, what figure) and as definitions.",
+  "keyFacts": [
+   "RBI revises capital adequacy norms for banks DD News"
+  ],
+  "examinerAngles": [
+   "Which institution announced it and under which Act?",
+   "What is the exact rate / figure announced?",
+   "Define the term (repo rate, CPI, GDP, fiscal deficit)."
+  ],
+  "category": "economy",
+  "tags": [
+   "RBI"
+  ],
+  "published_at": "2026-10-30T18:38:27.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "DD News",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TSjI4RDlCUWd3RW9rbFMzRmlsbjc4TjdWUTN2T2FNbTNBdmRpT3RBbUJaTTM5X2tOTG5pT2FRX1hycXVUWnpYS2YtNXAyOUJoX3M3N0FvTDl5UGUwN05PRlFIU1BlYVhYTm9sWFY4WnlfVkpQcEd2NGNB?oc=5",
+    "quality": 5
+   }
+  ],
+  "source_quality": 5,
+  "relevance_score": 7,
+  "exam": {
+   "nlsat": 7,
+   "aiat": 6,
+   "ssc": 7
+  },
+  "legal_relevance": 2,
+  "national_importance": 7,
+  "mcq_value": 5,
+  "staticLinks": [
+   "rbi"
+  ],
+  "legalLinks": [],
+  "verified": false,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 58.9
  },
  {
   "id": "a10618b27910",
@@ -38232,6 +40146,52 @@
   "ai_generated": false,
   "is_demo": false,
   "priority_score": 51.4
+ },
+ {
+  "id": "25d24f56b932",
+  "title": "Sensex Live updates: Sensex up by 308.49 - Why sensex is rising today?",
+  "summary": "Sensex Live updates: Sensex up by 308.49 - Why sensex is rising today? The Economic Times",
+  "content": [
+   "Sensex Live updates: Sensex up by 308.49 - Why sensex is rising today? The Economic Times"
+  ],
+  "whyMatters": "Policy rates, regulators and economic indicators can be tested as facts (who announced, what figure) and as definitions.",
+  "keyFacts": [
+   "Sensex Live updates: Sensex up by 308.49 - Why sensex is rising today?"
+  ],
+  "examinerAngles": [
+   "Which institution announced it and under which Act?",
+   "What is the exact rate / figure announced?",
+   "Define the term (repo rate, CPI, GDP, fiscal deficit)."
+  ],
+  "category": "economy",
+  "tags": [
+   "economy"
+  ],
+  "published_at": "2026-10-29T22:15:00.000Z",
+  "created_at": "2026-11-01T00:06:24.138Z",
+  "sources": [
+   {
+    "name": "The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nQi1tZHgtMy1VSmpubkJiYzlGT2xGX0k1cUZRT2VuUXdVeTJIZzBPNmV3NTFUMjFKV3lkQVZJNTl3N0hZYXBSblBSTTd2VU5NTE5NOE5jMmMxZ0JxWXoybHlGaWc0Y1ktc1Y2LVlPNEE?oc=5",
+    "quality": 8
+   }
+  ],
+  "source_quality": 8,
+  "relevance_score": 5,
+  "exam": {
+   "nlsat": 5,
+   "aiat": 4,
+   "ssc": 5
+  },
+  "legal_relevance": 2,
+  "national_importance": 7,
+  "mcq_value": 7,
+  "staticLinks": [],
+  "legalLinks": [],
+  "verified": true,
+  "ai_generated": false,
+  "is_demo": false,
+  "priority_score": 56.9
  },
  {
   "id": "16a0467340e5",
@@ -369460,1964 +371420,5 @@
   "ai_generated": false,
   "is_demo": false,
   "priority_score": 42.3
- },
- {
-  "id": "99850bce4a7f",
-  "title": "India Must Move from Being a Global Content Market to a Creator of Globally Competitive Media and Entertainment Companies: Secretary, I&B, at CII Big Picture Summit 2026",
-  "summary": "India Must Move from Being a Global Content Market to a Creator of Globally Competitive Media and Entertainment Companies: Secretary, I&B, at CII Big Picture Summit 2026 Press Information Bureau",
-  "content": [
-   "India Must Move from Being a Global Content Market to a Creator of Globally Competitive Media and Entertainment Companies: Secretary, I&B, at CII Big Picture Summit 2026 Press Information Bureau"
-  ],
-  "whyMatters": "Questions typically ask which countries/organisations are involved, headquarters, founding years and India’s connection.",
-  "keyFacts": [
-   "India Must Move from Being a Global Content Market to a Creator of Globally Competitive Media and Entertainment Companies: Secretary, I&B, at CII Big Picture Summit 2026 Press Information Bureau"
-  ],
-  "examinerAngles": [
-   "Where is the HQ of the organisation / which countries are involved?",
-   "What is India’s connection or stand?",
-   "When was the agreement / grouping formed?"
-  ],
-  "category": "international",
-  "tags": [
-   "international"
-  ],
-  "published_at": "2026-10-15T10:46:00.000Z",
-  "created_at": "2026-10-16T16:35:34.046Z",
-  "sources": [
-   {
-    "name": "Press Information Bureau",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PRDhWcENfeTNlSWl4QVRySk1hdEVGdkZ2ZXdiV0xtNkpfV2dtN0ptTGVIcHNWRDZMV1lVZFRzbE41ZkU2UHhQN1NqdXpjVC1MV0Z2dkZodDRCTGJUWnJDWElRbGlLc0JvNzJLOTkwaUxxTEhjb1ZLN1lUT3NtZw?oc=5",
-    "quality": 10
-   }
-  ],
-  "source_quality": 10,
-  "relevance_score": 7,
-  "exam": {
-   "nlsat": 7,
-   "aiat": 6,
-   "ssc": 7
-  },
-  "legal_relevance": 2,
-  "national_importance": 7,
-  "mcq_value": 7,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 56.8
- },
- {
-  "id": "6613fda6d87a",
-  "title": "Rupee hedging turmoil exposes strain in India's FX market",
-  "summary": "Rupee hedging turmoil exposes strain in India's FX market Reuters",
-  "content": [
-   "Rupee hedging turmoil exposes strain in India's FX market Reuters"
-  ],
-  "whyMatters": "Policy rates, regulators and economic indicators can be tested as facts (who announced, what figure) and as definitions.",
-  "keyFacts": [
-   "Rupee hedging turmoil exposes strain in India's FX market Reuters"
-  ],
-  "examinerAngles": [
-   "Which institution announced it and under which Act?",
-   "What is the exact rate / figure announced?",
-   "Define the term (repo rate, CPI, GDP, fiscal deficit)."
-  ],
-  "category": "economy",
-  "tags": [
-   "economy"
-  ],
-  "published_at": "2026-10-15T10:43:46.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbEZncTRaQmtoSzVKNGpFTnB2TGNJRGlQa2Z4OWNDMms5cHMxWk1KSl9naU5WOFdieWlUb0tRbmRpVGhOc3p4dkZvWll3SUVVYW1mLWV4RWZhVXRZOWN0NHh3WHdNNFB4VnZYTDFhMmlxamw1WThGclgybG5qOVhFQm9nZVZTekwybDJrMnhwVkhRRVJxdjhEcjhubXdOck9DbmUxYzlPNHNjeXFy?oc=5",
-    "quality": 9
-   }
-  ],
-  "source_quality": 9,
-  "relevance_score": 6,
-  "exam": {
-   "nlsat": 6,
-   "aiat": 5,
-   "ssc": 6
-  },
-  "legal_relevance": 2,
-  "national_importance": 8,
-  "mcq_value": 5,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 51.8
- },
- {
-  "id": "cf4279254cf6",
-  "title": "‘Jailer 2’ movie review: Rajinikanth’s flourishes elevate Nelson’s rousing herogasm",
-  "summary": "Nelson betters the ‘Jailer’ template with a well-calibrated sequel that knows when to let Rajini loose and fills the in-between stretches with riotous humour and narrative build-up",
-  "content": [
-   "Nelson betters the ‘Jailer’ template with a well-calibrated sequel that knows when to let Rajini loose and fills the in-between stretches with riotous humour and narrative build-up"
-  ],
-  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
-  "keyFacts": [
-   "Nelson betters the ‘Jailer’ template with a well-calibrated sequel that knows when to let Rajini loose and fills the in-between stretches with riotous humour and narrative build-up"
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "national",
-  "tags": [
-   "national"
-  ],
-  "published_at": "2026-10-15T10:43:09.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/entertainment/movies/jailer-2-movie-review-superstar-rajinikanth-nelson-shivarajkumar-mohanlal-anirudh-ravichander/article71587540.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 4,
-  "exam": {
-   "nlsat": 4,
-   "aiat": 3,
-   "ssc": 4
-  },
-  "legal_relevance": 2,
-  "national_importance": 6,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 42.3
- },
- {
-  "id": "c190aeb13991",
-  "title": "M.K. Stalin says CM Vijay must visit local grocery shops to understand price rise",
-  "summary": "He said people, instead of being in a festive mood, were gripped by fear over the rising prices",
-  "content": [
-   "He said people, instead of being in a festive mood, were gripped by fear over the rising prices"
-  ],
-  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
-  "keyFacts": [
-   "He said people, instead of being in a festive mood, were gripped by fear over the rising prices"
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "national",
-  "tags": [
-   "national"
-  ],
-  "published_at": "2026-10-15T10:42:57.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/mk-stalin-says-cm-vijay-must-visit-local-grocery-shops-to-understand-price-rise/article71587109.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 4,
-  "exam": {
-   "nlsat": 4,
-   "aiat": 3,
-   "ssc": 4
-  },
-  "legal_relevance": 2,
-  "national_importance": 6,
-  "mcq_value": 5,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 41.3
- },
- {
-  "id": "429bf8fccd71",
-  "title": "Pakistan ranks second-worst in South Asia on hunger index: report",
-  "summary": "Pakistan ranks second-worst in South Asia on hunger index: report Geo News",
-  "content": [
-   "Pakistan ranks second-worst in South Asia on hunger index: report Geo News"
-  ],
-  "whyMatters": "Index/report questions ask India’s rank, the top-ranked country and the publishing organisation.",
-  "keyFacts": [
-   "Pakistan ranks second-worst in South Asia on hunger index: report Geo News"
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "reports",
-  "tags": [
-   "reports"
-  ],
-  "published_at": "2026-10-15T10:42:00.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "Geo News",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOXVROVREclNRYjBNd1QxOXRWRnEwUFUyS3k5cmMwX2hnYnU4VC0wMnM2bDlndVdLekpIdWprUjIxcU5tY2szQU1qZE1OZGdFd19aTFJmZGlyc3llVzY2V002NG1HNTVncHE4YzNXSjhGc0hJZXp2N1czSTdvTDNvQUJ1UENFblNrdy13NldOT2VWRjZJTUpxWGZfbDRRQQ?oc=5",
-    "quality": 5
-   },
-   {
-    "name": "Social News XYZ",
-    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOUzVWRmxkaC1CM09PZWE5a0xsZmR6RWFsZ0JYTUJsWFFCaEFTRkREc2RwSmE0Q3lzOGZWQzBhMUY1YWhYNWJjcFB4Yk1CWWtWbEo2RmhRaUU4QWxtZG5uNEpvNFp6VVhHN2tWbDh0dmJnTmJuX3FtR25jYlN6YVQ3WlJvSENZV2xaZGVCZTQ3anVOQk9vOHNhQTlVSGRIeDhLelVMQkwtZ3o4WTY4VVZYVVBWZzQ0YnA5ZHVNWkYyQzRqTUN5Ml9wVkU0WmRNdmtCQjNKNTBxemlwM3pCNEx0NGRVMkZLcW9xdFhiWkFUZW9MeTRfalFzMkZVNUtZVk9GdTlVcXJCNHFMdlFWZm1sOWpQRkNkaVFIejZGRV8tREdMZkM4U1HSAaYCQVVfeXFMTlM1VkZsZGgtQjNPT2VhOWtMbGZkekVhbGdCWE1CbFhRQmhBU0ZERHNkcEphNEN5czhmVkMwYTFGNWFoWDViY3BQeGJNQllrVmxKNkZoUWlFOEFsbWRubjRKbzRaelVYRzdrVmw4dHZiZ05ibl9xbUduY2JTemFUN1pSb0hDWVdsWmRlQmU0N2p1TkJPbzhzYUE5VUhkSHg4S3pVTEJMLWd6OFk2OFVWWFVQVmc0NGJwOWR1TVpGMkM0ak1DeTJfcFZFNFpkTXZrQkIzSjUwcXppcDN6QjRMdDRkVTJGS3FvcXRYYlpBVGVvTHk0X2pRczJGVTVLWVZPRnU5VXFyQjRxTHZRVmZtbDlqUEZDZGlRSHo2RkVfLURHTGZDOFNR?oc=5",
-    "quality": 5
-   },
-   {
-    "name": "The Hans India",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONUhkaVR3TEpPcXRYVExfUFp3dS1rRnJBdnZzR2g3X2NEVVFQamYyVmNKSWJMNTJYeUMxb2lQUU8yTHpOWVRfcEZvUUxMbDB4VWN0UEhmYk1PZE1TdFVRSXozdVBNTTc3OWJOVXVlSFhPcXNyMzVYbmYtcmxiYzhNUUF3b1RYTXFfZVFkZ2Y1a2RZVzdHODZvR2hmajlLVTRyV21CSEdMMFYzSTdXNDNLVUdNOWg?oc=5",
-    "quality": 5
-   },
-   {
-    "name": "The News Pakistan",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRVhmOXB5em1zUEJxcU5ESWFaZHIxV3d4WlR6NlNqa3c4d3NMaFJYWV9IeHczdmIzYWF5M0tZRU04c2NBazRFbFRXZmlPWmhTcGpuN0twMXJyMmFXTzhLRDVDQm1wNTlHMEFJc0YzYU5acHRQcHQtbXR1YWVfZE1GX202dURaQXhadkhrMVZTOHBBYzRGd3RtZVY5dw?oc=5",
-    "quality": 5
-   }
-  ],
-  "source_quality": 5,
-  "relevance_score": 6,
-  "exam": {
-   "nlsat": 6,
-   "aiat": 5,
-   "ssc": 7
-  },
-  "legal_relevance": 2,
-  "national_importance": 4,
-  "mcq_value": 9,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": false,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 43.8
- },
- {
-  "id": "3afa5f410c57",
-  "title": "CJP leaders’ arrest: What are bonds under the BNSS? Explaining the legal provisions",
-  "summary": "CJP leaders’ arrest: What are bonds under the BNSS? Explaining the legal provisions The Indian Express",
-  "content": [
-   "CJP leaders’ arrest: What are bonds under the BNSS? Explaining the legal provisions The Indian Express"
-  ],
-  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
-  "keyFacts": [
-   "Explaining the legal provisions The Indian Express"
-  ],
-  "examinerAngles": [
-   "Which Article / Act / provision is involved?",
-   "Bench strength and which judge authored the judgment?",
-   "Which earlier case was relied on, distinguished or overruled?",
-   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
-  ],
-  "category": "legal",
-  "tags": [
-   "legal"
-  ],
-  "published_at": "2026-10-15T10:40:22.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Indian Express",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTXM0X0RBS3pGYWowN1VUM0ZlM3hkQ3JIalE1WFU5VjlRZWstalMtVFRyMU9YQm1WazdyUUJ5UEw5Tk1QdUx4VHNPcGQ4d1hIaFRmdXlTQkt2UTcwOXdiTk05M0VwWTFpS25STERtRWRTeHp4OXlHR251Y1pmdWJ0dEZDLTVMelFoYmtkWE50dmgxaGp2WldXdUJ3M2laamlFVHJMeE9OQ0ZPM0taZEpuZktqMGVKV2J2NEJLTVhDVnlhRHhrSHhwcNIBzwFBVV95cUxPWG9ob25lTGxCS21ueHlpRjJqUnY1VDRPLWd5X1RzRTh1MW1ZWjk3a2xfNWJyQ2EtWTZHN09OTkYxYUtCR25VdzFJZkhJU1M1SEVzNDd2NURjcjZacV9yM1BoLWNCRE1HTVR4ZkxyU0t2NzE3RlBSbm9pelFyanVVS2lYZ0xGS2JsQVFVd0xBWkxsVDFpLUZ0SjB4U2FlR0lxY215YUxmUUE0NThXRTJlejk2YldFa0VvNC14WHR3M09RdnB2UHBXTHdldHZMWnc?oc=5",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 6,
-  "exam": {
-   "nlsat": 7,
-   "aiat": 7,
-   "ssc": 6
-  },
-  "legal_relevance": 8,
-  "national_importance": 7,
-  "mcq_value": 6,
-  "staticLinks": [
-   "bns"
-  ],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 58.8
- },
- {
-  "id": "da27b0cd286a",
-  "title": "Outcry against VIP entry to Yuva Dasara at Hosahundi blocking access to nearby villages",
-  "summary": "Superintendent of Mysuru district police Mallikarjuna Baladandi claims that information about an alternative route has been communicated to villagers",
-  "content": [
-   "Superintendent of Mysuru district police Mallikarjuna Baladandi claims that information about an alternative route has been communicated to villagers"
-  ],
-  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
-  "keyFacts": [
-   "Superintendent of Mysuru district police Mallikarjuna Baladandi claims that information about an alternative route has been communicated to villagers"
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "national",
-  "tags": [
-   "national"
-  ],
-  "published_at": "2026-10-15T10:37:57.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/news/national/karnataka/outcry-against-vip-entry-to-yuva-dasara-at-hosahundi-blocking-access-to-nearby-villages/article71587137.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 4,
-  "exam": {
-   "nlsat": 4,
-   "aiat": 3,
-   "ssc": 4
-  },
-  "legal_relevance": 2,
-  "national_importance": 6,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 42.3
- },
- {
-  "id": "075bddbc18a2",
-  "title": "FMCG earnings to stay stable in Q2, but rising input costs may squeeze margins",
-  "summary": "With commodity inflation persisting, the balance between pricing, volumes and margins will remain critical to FMCG earnings in the coming quarters.",
-  "content": [
-   "With commodity inflation persisting, the balance between pricing, volumes and margins will remain critical to FMCG earnings in the coming quarters."
-  ],
-  "whyMatters": "Policy rates, regulators and economic indicators can be tested as facts (who announced, what figure) and as definitions.",
-  "keyFacts": [
-   "With commodity inflation persisting, the balance between pricing, volumes and margins will remain critical to FMCG earnings in the coming quarters."
-  ],
-  "examinerAngles": [
-   "Which institution announced it and under which Act?",
-   "What is the exact rate / figure announced?",
-   "Define the term (repo rate, CPI, GDP, fiscal deficit)."
-  ],
-  "category": "economy",
-  "tags": [
-   "economy"
-  ],
-  "published_at": "2026-10-15T10:36:24.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/business/Industry/fmcg-earnings-to-stay-stable-in-q2-but-rising-input-costs-may-squeeze-margins/article71587299.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 5,
-  "exam": {
-   "nlsat": 5,
-   "aiat": 4,
-   "ssc": 5
-  },
-  "legal_relevance": 2,
-  "national_importance": 7,
-  "mcq_value": 5,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 45.8
- },
- {
-  "id": "1a76361ee800",
-  "title": "October 10 detainees provided ‘hot, fresh, good meals’, only cellular internet was suspended: Delhi Police to Supreme Court",
-  "summary": "Preventive measures were necessary to protect peace and tranquility of vital, sensitive New Delhi area, the police chief said",
-  "content": [
-   "Preventive measures were necessary to protect peace and tranquility of vital, sensitive New Delhi area, the police chief said"
-  ],
-  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
-  "keyFacts": [
-   "Preventive measures were necessary to protect peace and tranquility of vital, sensitive New Delhi area, the police chief said"
-  ],
-  "examinerAngles": [
-   "Which Article / Act / provision is involved?",
-   "Bench strength and which judge authored the judgment?",
-   "Which earlier case was relied on, distinguished or overruled?",
-   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
-  ],
-  "category": "legal",
-  "tags": [
-   "Supreme Court"
-  ],
-  "published_at": "2026-10-15T10:36:13.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/news/national/oct-10-detainees-provided-hot-fresh-good-meals-only-cellular-internet-was-suspended-delhi-police-to-sc/article71586610.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 8,
-  "exam": {
-   "nlsat": 9,
-   "aiat": 9,
-   "ssc": 8
-  },
-  "legal_relevance": 10,
-  "national_importance": 9,
-  "mcq_value": 6,
-  "staticLinks": [
-   "supreme-court"
-  ],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 70.8
- },
- {
-  "id": "8ca79f24bfeb",
-  "title": "Amarinder Warring a ‘fighter’, will play ‘very important’ role in Punjab polls: Sachin Pilot",
-  "summary": "Like I said, he's done a lot of work for young people, he's actually encouraged them to come forward and, you know, fight the Aam Aadmi Party. But during elections, there are many things that one considers and the leadership decided that in UP and Punjab, we have to appoint new presidents, says Sachin Pilot",
-  "content": [
-   "Like I said, he's done a lot of work for young people, he's actually encouraged them to come forward and, you know, fight the Aam Aadmi Party. But during elections, there are many things that one considers and the leadership decided that in UP and Punjab, we have to appoint new presidents, says Sachin Pilot"
-  ],
-  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
-  "keyFacts": [
-   "Like I said, he's done a lot of work for young people, he's actually encouraged them to come forward and, you know, fight the Aam Aadmi Party.",
-   "But during elections, there are many things that one considers and the leadership decided that in UP and Punjab, we have to appoint new presidents, says Sachin Pilot"
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "national",
-  "tags": [
-   "national"
-  ],
-  "published_at": "2026-10-15T10:35:49.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/news/national/punjab/amarinder-warring-a-fighter-will-play-very-important-role-in-punjab-polls-sachin-pilot/article71586832.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 4,
-  "exam": {
-   "nlsat": 4,
-   "aiat": 3,
-   "ssc": 4
-  },
-  "legal_relevance": 2,
-  "national_importance": 6,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 42.3
- },
- {
-  "id": "37e26605cd1a",
-  "title": "T.N. CM Vijay urges Centre to secure release of 25 Thoothukudi fishermen arrested by Maldives Coast Guard",
-  "summary": "The fishermen from Thoothukudi, along with their three mechanised fishing boats, were apprehended by the Maldives Coast Guard in the early hours of October 13",
-  "content": [
-   "The fishermen from Thoothukudi, along with their three mechanised fishing boats, were apprehended by the Maldives Coast Guard in the early hours of October 13"
-  ],
-  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
-  "keyFacts": [
-   "The fishermen from Thoothukudi, along with their three mechanised fishing boats, were apprehended by the Maldives Coast Guard in the early hours of October 13"
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "national",
-  "tags": [
-   "national"
-  ],
-  "published_at": "2026-10-15T10:33:52.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-vijay-urges-centre-to-secure-release-of-25-thoothukudi-fishermen-arrested-by-maldives-coast-guard/article71587374.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 4,
-  "exam": {
-   "nlsat": 4,
-   "aiat": 3,
-   "ssc": 4
-  },
-  "legal_relevance": 2,
-  "national_importance": 6,
-  "mcq_value": 7,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 43.3
- },
- {
-  "id": "38a401dd0cc2",
-  "title": "Indian Bank Says RBI Observes Incorrect Inclusion Of 24.70 Billion Rupees In Tier 2 Capital",
-  "summary": "Indian Bank Says RBI Observes Incorrect Inclusion Of 24.70 Billion Rupees In Tier 2 Capital TradingView",
-  "content": [
-   "Indian Bank Says RBI Observes Incorrect Inclusion Of 24.70 Billion Rupees In Tier 2 Capital TradingView"
-  ],
-  "whyMatters": "Policy rates, regulators and economic indicators can be tested as facts (who announced, what figure) and as definitions.",
-  "keyFacts": [
-   "Indian Bank Says RBI Observes Incorrect Inclusion Of 24.70 Billion Rupees In Tier 2 Capital TradingView"
-  ],
-  "examinerAngles": [
-   "Which institution announced it and under which Act?",
-   "What is the exact rate / figure announced?",
-   "Define the term (repo rate, CPI, GDP, fiscal deficit)."
-  ],
-  "category": "economy",
-  "tags": [
-   "RBI"
-  ],
-  "published_at": "2026-10-15T10:32:48.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "TradingView",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdTc0VWNIZ2RfU1FGZmVnUTlBT0o3azd5R2MwVjRRVExFZUhidlZkeGNQbTQ5MXNETEVPYzVXQmJBWDdvWElmbDlrWWM4Um1ISllaT1h6b0ttV0JCT1hwc1AweUc3azdIeUNkU1BJMTRCY3lhUWptX2dOS21HNGhXSTZ4Z0JzZzloRHo5c0JuTHlESkFEeXMtWmpkNVdGcE95YTZVQ0pWYWhFN3A0a2VxTUxEeFFRZ0RLaUEtY2txNnMwaFJLSjgtb2loY2tkb1p2bUxtOWpZUlJYMW1ZMV9aM0ppRU5RQjlzM0VGUkVaTFA1Rmc?oc=5",
-    "quality": 5
-   }
-  ],
-  "source_quality": 5,
-  "relevance_score": 7,
-  "exam": {
-   "nlsat": 7,
-   "aiat": 6,
-   "ssc": 7
-  },
-  "legal_relevance": 2,
-  "national_importance": 7,
-  "mcq_value": 8,
-  "staticLinks": [
-   "rbi"
-  ],
-  "legalLinks": [],
-  "verified": false,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 50.3
- },
- {
-  "id": "de989df4b242",
-  "title": "Will take all possible measures to control CJP protest on October 16: Delhi Police to Delhi High Court",
-  "summary": "Will take all possible measures to control CJP protest on October 16: Delhi Police to Delhi High Court",
-  "content": [
-   "Will take all possible measures to control CJP protest on October 16: Delhi Police to Delhi High Court"
-  ],
-  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
-  "keyFacts": [],
-  "examinerAngles": [
-   "Which Article / Act / provision is involved?",
-   "Bench strength and which judge authored the judgment?",
-   "Which earlier case was relied on, distinguished or overruled?",
-   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
-  ],
-  "category": "legal",
-  "tags": [
-   "High Court"
-  ],
-  "published_at": "2026-10-15T10:32:47.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "Bar & Bench",
-    "url": "https://www.barandbench.com/news/will-take-all-possible-measures-to-control-cjp-protest-on-october-16-delhi-police-to-delhi-high-court",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 6,
-  "exam": {
-   "nlsat": 7,
-   "aiat": 7,
-   "ssc": 6
-  },
-  "legal_relevance": 10,
-  "national_importance": 7,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 61.8
- },
- {
-  "id": "7324b39dd47f",
-  "title": "Jammu and Kashmir High Court bans fuel-powered shikara motorboats, jet skis in Dal Lake to curb pollution",
-  "summary": "Jammu and Kashmir High Court bans fuel-powered shikara motorboats, jet skis in Dal Lake to curb pollution",
-  "content": [
-   "Jammu and Kashmir High Court bans fuel-powered shikara motorboats, jet skis in Dal Lake to curb pollution"
-  ],
-  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
-  "keyFacts": [],
-  "examinerAngles": [
-   "Which Article / Act / provision is involved?",
-   "Bench strength and which judge authored the judgment?",
-   "Which earlier case was relied on, distinguished or overruled?",
-   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
-  ],
-  "category": "legal",
-  "tags": [
-   "High Court"
-  ],
-  "published_at": "2026-10-15T10:32:45.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "Bar & Bench",
-    "url": "https://www.barandbench.com/news/jammu-and-kashmir-high-court-bans-fuel-powered-shikara-motorboats-jet-skis-in-dal-lake-to-curb-pollution",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 6,
-  "exam": {
-   "nlsat": 7,
-   "aiat": 7,
-   "ssc": 6
-  },
-  "legal_relevance": 10,
-  "national_importance": 7,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [
-   "article-370"
-  ],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 61.8
- },
- {
-  "id": "c03e842834b0",
-  "title": "From Sanitation Worker to Entrepreneur",
-  "summary": "From Sanitation Worker to Entrepreneur pib.gov.in",
-  "content": [
-   "From Sanitation Worker to Entrepreneur pib.gov.in"
-  ],
-  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
-  "keyFacts": [
-   "From Sanitation Worker to Entrepreneur pib.gov.in"
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "national",
-  "tags": [
-   "national"
-  ],
-  "published_at": "2026-10-15T10:31:00.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "pib.gov.in",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GTUtWTDBxdElPdDkwVjJteXlKMllQZmlVdXlxdXJjZkxUZ2I3N0VfdE02NHN5Y2xhX0VzMnhaY3lRQ2dUdXBVZ0xHblpOUWJ3ajZKTEVXMUx2b2lmcmNraDgzNGN3RUxlT2RB?oc=5",
-    "quality": 10
-   }
-  ],
-  "source_quality": 10,
-  "relevance_score": 5,
-  "exam": {
-   "nlsat": 5,
-   "aiat": 4,
-   "ssc": 5
-  },
-  "legal_relevance": 2,
-  "national_importance": 7,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 49.8
- },
- {
-  "id": "f7a69d56526c",
-  "title": "Khaitan & Co advises Autodesk on acquisition of technology assets and intellectual property from BIMDeX",
-  "summary": "Khaitan & Co advised Autodesk Inc. on the Indian law aspects of its acquisition of select technology assets and intellectual property from BIMDeX, along with the hiring of a subset of BIMDeX’s team in India. Morrison Foerster acted as lead counsel for the transaction. The post Khaitan & Co advises Autodesk on acquisition of technology assets and intellectual property from BIMDeX appeared first on SCC Times.",
-  "content": [
-   "Khaitan & Co advised Autodesk Inc. on the Indian law aspects of its acquisition of select technology assets and intellectual property from BIMDeX, along with the hiring of a subset of BIMDeX’s team in India. Morrison Foerster acted as lead counsel for the transaction. The post Khaitan & Co advises Autodesk on acquisition of technology assets and intellectual property from BIMDeX appeared first on SCC Times."
-  ],
-  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
-  "keyFacts": [
-   "Khaitan & Co advised Autodesk Inc.",
-   "Morrison Foerster acted as lead counsel for the transaction."
-  ],
-  "examinerAngles": [
-   "Which Article / Act / provision is involved?",
-   "Bench strength and which judge authored the judgment?",
-   "Which earlier case was relied on, distinguished or overruled?",
-   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
-  ],
-  "category": "legal",
-  "tags": [
-   "legal"
-  ],
-  "published_at": "2026-10-15T10:30:20.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "SCC Online Blog",
-    "url": "https://www.scconline.com/blog/post/2026/10/15/khaitan-co-autodesk-acquisition-technology-assets-ip-bimdex/",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 6,
-  "exam": {
-   "nlsat": 7,
-   "aiat": 7,
-   "ssc": 6
-  },
-  "legal_relevance": 10,
-  "national_importance": 7,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 61.8
- },
- {
-  "id": "470fab5b45a3",
-  "title": "End of Naxalism doesn't erase five decades of suffering it caused: Amit Shah",
-  "summary": "Addressing a virtual ceremony to assist Chhattisgarh's Maoist-affected, Amit Shah said a disability assistance programme held in Jagdalpur from October 5-7 had benefitted more than 3,600 people with disabilities, including around 1,570 in Bastar alone.",
-  "content": [
-   "Addressing a virtual ceremony to assist Chhattisgarh's Maoist-affected, Amit Shah said a disability assistance programme held in Jagdalpur from October 5-7 had benefitted more than 3,600 people with disabilities, including around 1,570 in Bastar alone."
-  ],
-  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
-  "keyFacts": [
-   "Addressing a virtual ceremony to assist Chhattisgarh's Maoist-affected, Amit Shah said a disability assistance programme held in Jagdalpur from October 5-7 had benefitted more than 3,600 people with disabilities, including around 1,570 in Bastar alone."
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "national",
-  "tags": [
-   "national"
-  ],
-  "published_at": "2026-10-15T10:23:48.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/news/national/end-of-naxalismdoesnt-erase-five-decades-of-suffering-it-caused-amit-shah/article71587327.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 4,
-  "exam": {
-   "nlsat": 4,
-   "aiat": 3,
-   "ssc": 4
-  },
-  "legal_relevance": 2,
-  "national_importance": 6,
-  "mcq_value": 8,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 44.3
- },
- {
-  "id": "46c0b19aace4",
-  "title": "SC order on train insurance: Who is eligible, and what compensation can you receive?",
-  "summary": "SC order on train insurance: Who is eligible, and what compensation can you receive? The Indian Express",
-  "content": [
-   "SC order on train insurance: Who is eligible, and what compensation can you receive? The Indian Express"
-  ],
-  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
-  "keyFacts": [
-   "SC order on train insurance: Who is eligible, and what compensation can you receive?"
-  ],
-  "examinerAngles": [
-   "Which Article / Act / provision is involved?",
-   "Bench strength and which judge authored the judgment?",
-   "Which earlier case was relied on, distinguished or overruled?",
-   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
-  ],
-  "category": "legal",
-  "tags": [
-   "legal"
-  ],
-  "published_at": "2026-10-15T10:21:43.000Z",
-  "created_at": "2026-10-15T16:57:13.617Z",
-  "sources": [
-   {
-    "name": "The Indian Express",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWHBLX290MGN1Ry1RbnowRDJqemZYQWdYZXBYR28wWjVLbWxseTZvcnFQTVh1cHNPbEZHVmg2WGxhajcyVElXcW90TElDRTNndGJfOHFvcHloNVNBbmxwTnZMMWtoTzRFaDU2YnlseDRmYlBsX3ZoV2RLYVd0OG9va3RLZzJaT2ZsZzJQREVjS0Y0UGxkX1hEMTE2bjlTazdJX1HSAagBQVVfeXFMUDJHdVN3QXJ5Y0pDSzM1TW1hSTFWbXBGT3VYbWQzNkcxOW5YckdKdVlmTmxhSEQ2dGlGcTRKVl81bTNubmFhTU9aY29oYXJOVDJWSnJRYzJKTjVVMlpMeXF2MjhKek1Ba1k3bURvUlRGOTlvNW1GcUh2ZkRWY0t4X0ZnR2NiYzlUNGVVQnRlU2pTa3JhRHlzTFp3MUttVGR4aVlDeTg4NTIx?oc=5",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 6,
-  "exam": {
-   "nlsat": 7,
-   "aiat": 7,
-   "ssc": 6
-  },
-  "legal_relevance": 8,
-  "national_importance": 7,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 58.8
- },
- {
-  "id": "6b37f9f1252c",
-  "title": "Net direct tax collection grows 13% to ₹13.38 lakh crore till October 14",
-  "summary": "Direct tax collection up 13.21% to ₹13.38 lakh crore till Oct 14, driven by strong corporate tax growth and higher STT refunds",
-  "content": [
-   "Direct tax collection up 13.21% to ₹13.38 lakh crore till Oct 14, driven by strong corporate tax growth and higher STT refunds"
-  ],
-  "whyMatters": "Policy rates, regulators and economic indicators can be tested as facts (who announced, what figure) and as definitions.",
-  "keyFacts": [
-   "Direct tax collection up 13.21% to ₹13.38 lakh crore till Oct 14, driven by strong corporate tax growth and higher STT refunds"
-  ],
-  "examinerAngles": [
-   "Which institution announced it and under which Act?",
-   "What is the exact rate / figure announced?",
-   "Define the term (repo rate, CPI, GDP, fiscal deficit)."
-  ],
-  "category": "economy",
-  "tags": [
-   "economy"
-  ],
-  "published_at": "2026-10-15T10:21:12.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/business/Economy/net-direct-tax-collection-grows-13-to-1338-lakh-crore-till-october-14/article71587570.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 5,
-  "exam": {
-   "nlsat": 5,
-   "aiat": 4,
-   "ssc": 5
-  },
-  "legal_relevance": 2,
-  "national_importance": 7,
-  "mcq_value": 7,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 47.8
- },
- {
-  "id": "d472918afb9e",
-  "title": "India, U.S. trade pact to be operationalised once India gets competitive advantage: Goyal",
-  "summary": "Piyush Goyal said that the free trade agreement between India and the European Union will be inked in December and will come into force from February or March next year.",
-  "content": [
-   "Piyush Goyal said that the free trade agreement between India and the European Union will be inked in December and will come into force from February or March next year."
-  ],
-  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
-  "keyFacts": [
-   "Piyush Goyal said that the free trade agreement between India and the European Union will be inked in December and will come into force from February or March next year."
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "national",
-  "tags": [
-   "national"
-  ],
-  "published_at": "2026-10-15T10:17:22.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/news/national/india-us-trade-pact-to-be-operationalised-once-india-gets-competitive-advantage-goyal/article71587473.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 5,
-  "exam": {
-   "nlsat": 5,
-   "aiat": 4,
-   "ssc": 5
-  },
-  "legal_relevance": 2,
-  "national_importance": 6,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 45.3
- },
- {
-  "id": "024cc7e42c6e",
-  "title": "Ministry of Education organises Orientation-cum-Review Workshop on National Means-cum-Merit Scholarship Scheme (NMMSS) to Strengthen Scholarship Implementation and Verification Processes",
-  "summary": "Ministry of Education organises Orientation-cum-Review Workshop on National Means-cum-Merit Scholarship Scheme (NMMSS) to Strengthen Scholarship Implementation and Verification Processes pib.gov.in",
-  "content": [
-   "Ministry of Education organises Orientation-cum-Review Workshop on National Means-cum-Merit Scholarship Scheme (NMMSS) to Strengthen Scholarship Implementation and Verification Processes pib.gov.in"
-  ],
-  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
-  "keyFacts": [
-   "Ministry of Education organises Orientation-cum-Review Workshop on National Means-cum-Merit Scholarship Scheme (NMMSS) to Strengthen Scholarship Implementation and Verification Processes pib.gov.in"
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "schemes",
-  "tags": [
-   "schemes"
-  ],
-  "published_at": "2026-10-15T10:16:00.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "pib.gov.in",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jX21abjlVNFFZbGxHSHFVelp4T3ptS2Z1N3k5dHpUSVhlcGtieTN1VzhleFRocVlGMk05T1VXdjZRbDJoVGJnM01VZ1RHVlUzOXRUX0pfamFHVkQ2dGVueGx4V3p3dWV1NVE?oc=5",
-    "quality": 10
-   },
-   {
-    "name": "Press Information Bureau",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fUFRFeE1NdEtlWWt0UDY0OVVpQTNyb0xmMGVMRjJHT1I0TXFJNVh3Vmt0dldHSVRod3FWek5ka0hvWVdYZDZfT0VMdkg2ZkV6ZzZnWHIyNGFfM1MtYTQxMnhXNkhVX1lfczRIN0FOYTljUlVBdnJsM2ROcF8?oc=5",
-    "quality": 10
-   }
-  ],
-  "source_quality": 10,
-  "relevance_score": 6,
-  "exam": {
-   "nlsat": 6,
-   "aiat": 7,
-   "ssc": 6
-  },
-  "legal_relevance": 2,
-  "national_importance": 8,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 54.3
- },
- {
-  "id": "fc5acc36776b",
-  "title": "IP ownership in GCCs: Drafting, assignments, transfer pricing considerations and protection strategy",
-  "summary": "IP ownership in GCCs: Drafting, assignments, transfer pricing considerations and protection strategy",
-  "content": [
-   "IP ownership in GCCs: Drafting, assignments, transfer pricing considerations and protection strategy"
-  ],
-  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
-  "keyFacts": [],
-  "examinerAngles": [
-   "Which Article / Act / provision is involved?",
-   "Bench strength and which judge authored the judgment?",
-   "Which earlier case was relied on, distinguished or overruled?",
-   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
-  ],
-  "category": "legal",
-  "tags": [
-   "legal"
-  ],
-  "published_at": "2026-10-15T10:15:17.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "Bar & Bench",
-    "url": "https://www.barandbench.com/law-firms/view-point/ip-ownership-in-gccs-drafting-assignments-transfer-pricing-considerations-and-protection-strategy",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 6,
-  "exam": {
-   "nlsat": 7,
-   "aiat": 7,
-   "ssc": 6
-  },
-  "legal_relevance": 8,
-  "national_importance": 7,
-  "mcq_value": 5,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 57.8
- },
- {
-  "id": "96b793368570",
-  "title": "'Will Take Steps Against CJP, Abhijeet Dipke': Delhi Police Tells High Court In Plea Over Protest At...",
-  "summary": "'Will Take Steps Against CJP, Abhijeet Dipke': Delhi Police Tells High Court In Plea Over Protest At... Live Law",
-  "content": [
-   "'Will Take Steps Against CJP, Abhijeet Dipke': Delhi Police Tells High Court In Plea Over Protest At... Live Law"
-  ],
-  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
-  "keyFacts": [
-   "'Will Take Steps Against CJP, Abhijeet Dipke': Delhi Police Tells High Court In Plea Over Protest At..."
-  ],
-  "examinerAngles": [
-   "Which Article / Act / provision is involved?",
-   "Bench strength and which judge authored the judgment?",
-   "Which earlier case was relied on, distinguished or overruled?",
-   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
-  ],
-  "category": "legal",
-  "tags": [
-   "High Court"
-  ],
-  "published_at": "2026-10-15T10:15:10.000Z",
-  "created_at": "2026-10-15T16:57:13.617Z",
-  "sources": [
-   {
-    "name": "Live Law",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObndlWlhFYUlRRkk4MmhTM2s1WVNxUVpvYkR4TGZHU2VIZWVIWTVwTW0wdXExS2Rad2lJdzBIWXJQaUpMTElPWmozTTg4TTNVekFvRS1uNjNHb001aVhhSDMwMmoxSXZMTUVSYzgyOXZqZWI0RkpYNERMZXlaLXJkcFRsdV9nOER0Skp4bW9VbzZnaEkzdlZJMXNvVlBYRS1xa0RzWnYxT0RRb0k5emhFSE9zWlY5eDFqWE9TRllzQ1pOQUZpTllSVnpnMNIB0AFBVV95cUxNSFJGeWh6a255aDg0N0NET1B2Qm5QM0sySUM0X2F3UUw4ZEFMVWJJbjB4Y0p2LVNISTUtSHZfaG9lV0JBQUU2cmZrczhsVm81U1dmcVRqYlFWMEhsZ1pINUVfLVhQc1pqVUE2czFFTVotQmRwRDlQY0w4OVFuY1FmUkxuRkR4WG1zOTFwV05qdFZRS0hrNi15UlNWc3JRRVFPRTRrY1o4WFMzY1hvcmM5RV9VZVV5aGJJMkt5UzEzc2FDa21jeThsRVVHeVRDOEZV?oc=5",
-    "quality": 5
-   }
-  ],
-  "source_quality": 5,
-  "relevance_score": 6,
-  "exam": {
-   "nlsat": 7,
-   "aiat": 7,
-   "ssc": 6
-  },
-  "legal_relevance": 10,
-  "national_importance": 7,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": false,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 57.3
- },
- {
-  "id": "6fdb767912af",
-  "title": "As inscrutable AI proofs emerge, mathematicians wait in the dark",
-  "summary": "Powered by vast arrays of graphics processing units, large language models code better than experienced coders and write award-worthy novels; but as they have laboured through the weave of intricate mathematical logic, mathematicians are becoming more concerned about what it bodes for the future of the field",
-  "content": [
-   "Powered by vast arrays of graphics processing units, large language models code better than experienced coders and write award-worthy novels; but as they have laboured through the weave of intricate mathematical logic, mathematicians are becoming more concerned about what it bodes for the future of the field"
-  ],
-  "whyMatters": "Science & technology items are tested through the mission/technology name, the agency and the headline milestone.",
-  "keyFacts": [
-   "Powered by vast arrays of graphics processing units, large language models code better than experienced coders and write award-worthy novels; but as they have laboured through the weave of intricate mathematical logic, mathematicians are becoming more concerned about what it bodes for the future of the field"
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "scitech",
-  "tags": [
-   "scitech"
-  ],
-  "published_at": "2026-10-15T10:15:07.000Z",
-  "created_at": "2026-10-16T04:27:05.074Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/sci-tech/science/openai-as-inscrutable-ai-proofs-emerge-mathematicians-wait-in-the-dark/article71587373.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 5,
-  "exam": {
-   "nlsat": 5,
-   "aiat": 4,
-   "ssc": 6
-  },
-  "legal_relevance": 2,
-  "national_importance": 4,
-  "mcq_value": 5,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 41.3
- },
- {
-  "id": "21f21bb73e0f",
-  "title": "Woman social media influencer among 4 arrested with MDMA in Keralam’s Malappuram",
-  "summary": "Police said the group was allegedly selling MDMA to students and young people in Malappuram, Vengara and Mankada areas",
-  "content": [
-   "Police said the group was allegedly selling MDMA to students and young people in Malappuram, Vengara and Mankada areas"
-  ],
-  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
-  "keyFacts": [
-   "Police said the group was allegedly selling MDMA to students and young people in Malappuram, Vengara and Mankada areas"
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "national",
-  "tags": [
-   "national"
-  ],
-  "published_at": "2026-10-15T10:14:54.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/news/national/kerala/woman-social-media-influencer-among-4-arrested-with-mdma-in-keralams-malappuram/article71586952.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 4,
-  "exam": {
-   "nlsat": 4,
-   "aiat": 3,
-   "ssc": 4
-  },
-  "legal_relevance": 2,
-  "national_importance": 6,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 42.3
- },
- {
-  "id": "8b1602463ff3",
-  "title": "Tamil Nadu government fully prepared to face Northeast monsoon: Revenue Minister",
-  "summary": "Minister K.A. Sengottaiyan said the department had conducted a series of review meetings on monsoon preparedness, and nearly 98% of the preparedness works had been completed",
-  "content": [
-   "Minister K.A. Sengottaiyan said the department had conducted a series of review meetings on monsoon preparedness, and nearly 98% of the preparedness works had been completed"
-  ],
-  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
-  "keyFacts": [
-   "Sengottaiyan said the department had conducted a series of review meetings on monsoon preparedness, and nearly 98% of the preparedness works had been completed"
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "national",
-  "tags": [
-   "national"
-  ],
-  "published_at": "2026-10-15T10:14:47.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-fully-prepared-to-face-northeast-monsoon-revenue-minister/article71587062.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 4,
-  "exam": {
-   "nlsat": 4,
-   "aiat": 3,
-   "ssc": 4
-  },
-  "legal_relevance": 2,
-  "national_importance": 6,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 42.3
- },
- {
-  "id": "5c07cc95a94e",
-  "title": "Tirumala’s water reserves may last just 90 days amid deficient rainfall",
-  "summary": "The hill town uses about 60 lakh gallons a day; three of its five reservoirs have run dry and officials now pin their hopes on the northeast monsoon",
-  "content": [
-   "The hill town uses about 60 lakh gallons a day; three of its five reservoirs have run dry and officials now pin their hopes on the northeast monsoon"
-  ],
-  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
-  "keyFacts": [
-   "The hill town uses about 60 lakh gallons a day; three of its five reservoirs have run dry and officials now pin their hopes on the northeast monsoon"
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "national",
-  "tags": [
-   "national"
-  ],
-  "published_at": "2026-10-15T10:11:44.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/news/national/andhra-pradesh/tirumalas-water-reserves-may-last-just-90-days-amid-deficient-rainfall/article71584595.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 4,
-  "exam": {
-   "nlsat": 4,
-   "aiat": 3,
-   "ssc": 4
-  },
-  "legal_relevance": 2,
-  "national_importance": 6,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 42.3
- },
- {
-  "id": "0f6e7a151be7",
-  "title": "WHO urges faster action to end lead exposure which kills 3.5 million annually",
-  "summary": "WHO urges faster action to end lead exposure which kills 3.5 million annually UN News",
-  "content": [
-   "WHO urges faster action to end lead exposure which kills 3.5 million annually UN News"
-  ],
-  "whyMatters": "Questions typically ask which countries/organisations are involved, headquarters, founding years and India’s connection.",
-  "keyFacts": [
-   "WHO urges faster action to end lead exposure which kills 3.5 million annually UN News"
-  ],
-  "examinerAngles": [
-   "Where is the HQ of the organisation / which countries are involved?",
-   "What is India’s connection or stand?",
-   "When was the agreement / grouping formed?"
-  ],
-  "category": "international",
-  "tags": [
-   "UN"
-  ],
-  "published_at": "2026-10-15T10:10:44.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "UN News",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9DQWFScnhueGYwaG9yMFZfMXBwRnQyTkU0eGpzakx5Ynp5Zkw2OVlLVDJZQWpQU3NqYlRGWG1VaVNjMXV4eUxFOUppcGg1cExJSkNsdURxbw?oc=5",
-    "quality": 9
-   }
-  ],
-  "source_quality": 9,
-  "relevance_score": 6,
-  "exam": {
-   "nlsat": 6,
-   "aiat": 5,
-   "ssc": 6
-  },
-  "legal_relevance": 2,
-  "national_importance": 7,
-  "mcq_value": 6,
-  "staticLinks": [
-   "who"
-  ],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 51.3
- },
- {
-  "id": "d39ac1004662",
-  "title": "Thirumavalavan says he cautioned Stalin on likelihood of ‘targeted’ voter deletions in Kolathur before T.N. Assembly poll",
-  "summary": "He was speaking at an INDIA bloc protest in Chennai on Thursday, demanding the resignation of CEC Gyanesh Kumar over alleged irregularities in the SIR exercise",
-  "content": [
-   "He was speaking at an INDIA bloc protest in Chennai on Thursday, demanding the resignation of CEC Gyanesh Kumar over alleged irregularities in the SIR exercise"
-  ],
-  "whyMatters": "Defence items are tested through exercise/system names, participating countries and locations.",
-  "keyFacts": [
-   "He was speaking at an INDIA bloc protest in Chennai on Thursday, demanding the resignation of CEC Gyanesh Kumar over alleged irregularities in the SIR exercise"
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "defence",
-  "tags": [
-   "defence"
-  ],
-  "published_at": "2026-10-15T10:08:17.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/news/national/tamil-nadu/thirumavalavan-says-he-cautioned-stalin-on-likelihood-of-targeted-voter-deletions-in-kolathur-weeks-before-assembly-poll/article71587150.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 5,
-  "exam": {
-   "nlsat": 5,
-   "aiat": 4,
-   "ssc": 5
-  },
-  "legal_relevance": 2,
-  "national_importance": 6,
-  "mcq_value": 6,
-  "staticLinks": [
-   "election-commission"
-  ],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 45.3
- },
- {
-  "id": "faade0325704",
-  "title": "Supreme Court issues notice to ECI, CEC on Rahul Gandhi, INDIA Bloc leaders plea against SIR",
-  "summary": "Supreme Court issues notice to ECI, CEC on Rahul Gandhi, INDIA Bloc leaders plea against SIR India Legal",
-  "content": [
-   "Supreme Court issues notice to ECI, CEC on Rahul Gandhi, INDIA Bloc leaders plea against SIR India Legal"
-  ],
-  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
-  "keyFacts": [
-   "Supreme Court issues notice to ECI, CEC on Rahul Gandhi, INDIA Bloc leaders plea against SIR India Legal"
-  ],
-  "examinerAngles": [
-   "Which Article / Act / provision is involved?",
-   "Bench strength and which judge authored the judgment?",
-   "Which earlier case was relied on, distinguished or overruled?",
-   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
-  ],
-  "category": "legal",
-  "tags": [
-   "Supreme Court"
-  ],
-  "published_at": "2026-10-15T10:07:24.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "India Legal",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQ3BldndKbmZSbGZNRWRDci0zcWlCMjRRMWdJcGRwb3phRXIwb1VQZFVIdVhLN0xpbm9IN0ZqbWJOTE5ieEl2VzlHeVZJUjNJTEh4Z1B5VEdUaC15MVlHc3p3NWdUTVExa2hVdUpZa0JXUEVKdlNNYlZmVjNHTG9HOWJWYktIdnBsVzhiUGM4Y3pHb1JBZnVYVnBmalhuV0xXdEt5OXFXb3hzNXJ6MDVvN05wcEpfSHg0WVFac1paQkc5dWNMS25kQ2Q2d05Od2dOTTJxQ2hhdldnR1NvVWppak5HTW5tWkhQX3c?oc=5",
-    "quality": 5
-   }
-  ],
-  "source_quality": 5,
-  "relevance_score": 8,
-  "exam": {
-   "nlsat": 9,
-   "aiat": 9,
-   "ssc": 8
-  },
-  "legal_relevance": 10,
-  "national_importance": 9,
-  "mcq_value": 6,
-  "staticLinks": [
-   "supreme-court",
-   "election-commission"
-  ],
-  "legalLinks": [],
-  "verified": false,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 66.3
- },
- {
-  "id": "fb6387e32203",
-  "title": "Case against Keralam MLA Najeeb Kanthapuram for blocking court-ordered attachment",
-  "summary": "Case filed after complaint by an advocate commissioner. Four unidentified persons too named as accused",
-  "content": [
-   "Case filed after complaint by an advocate commissioner. Four unidentified persons too named as accused"
-  ],
-  "whyMatters": "Appointments are tested as person → post → predecessor and the appointing authority.",
-  "keyFacts": [
-   "Case filed after complaint by an advocate commissioner.",
-   "Four unidentified persons too named as accused"
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "appointments",
-  "tags": [
-   "appointments"
-  ],
-  "published_at": "2026-10-15T10:06:00.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/news/national/kerala/case-against-keralam-mla-najeeb-kanthapuram-for-blocking-court-ordered-attachment/article71587417.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 6,
-  "exam": {
-   "nlsat": 6,
-   "aiat": 5,
-   "ssc": 7
-  },
-  "legal_relevance": 2,
-  "national_importance": 4,
-  "mcq_value": 9,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 48.3
- },
- {
-  "id": "ef76b410342f",
-  "title": "Column | The monkeys of Jain Ramayana",
-  "summary": "How the vanaras came to be monks on a hilltop in Maharashtra",
-  "content": [
-   "How the vanaras came to be monks on a hilltop in Maharashtra"
-  ],
-  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
-  "keyFacts": [
-   "How the vanaras came to be monks on a hilltop in Maharashtra"
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "national",
-  "tags": [
-   "national"
-  ],
-  "published_at": "2026-10-15T10:04:07.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/society/devdutt-pattanaik-ramayana-jainism-paumachariya-hanuman/article71578229.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 4,
-  "exam": {
-   "nlsat": 4,
-   "aiat": 3,
-   "ssc": 4
-  },
-  "legal_relevance": 2,
-  "national_importance": 6,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 42.3
- },
- {
-  "id": "bc90bf716609",
-  "title": "Canara Bank’s Q2 net profit rises to ₹5,175 crore; global business crosses ₹30.72 lakh crore",
-  "summary": "On the asset quality front, the bank’s Gross Non-Performing Asset (GNPA) ratio contracted sharply to 1.33% while the Net NPA ratio dropped to 0.30%",
-  "content": [
-   "On the asset quality front, the bank’s Gross Non-Performing Asset (GNPA) ratio contracted sharply to 1.33% while the Net NPA ratio dropped to 0.30%"
-  ],
-  "whyMatters": "Policy rates, regulators and economic indicators can be tested as facts (who announced, what figure) and as definitions.",
-  "keyFacts": [
-   "On the asset quality front, the bank’s Gross Non-Performing Asset (GNPA) ratio contracted sharply to 1.33% while the Net NPA ratio dropped to 0.30%"
-  ],
-  "examinerAngles": [
-   "Which institution announced it and under which Act?",
-   "What is the exact rate / figure announced?",
-   "Define the term (repo rate, CPI, GDP, fiscal deficit)."
-  ],
-  "category": "economy",
-  "tags": [
-   "economy"
-  ],
-  "published_at": "2026-10-15T10:03:58.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/business/canara-banks-q2-net-profit-rises-to-5175-crore-global-business-crosses-3072-lakh-crore/article71584820.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 5,
-  "exam": {
-   "nlsat": 5,
-   "aiat": 4,
-   "ssc": 5
-  },
-  "legal_relevance": 2,
-  "national_importance": 7,
-  "mcq_value": 8,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 48.8
- },
- {
-  "id": "2400ab3fdbab",
-  "title": "J&K High Court's Ladakh bench to be inaugurated soon; will hear cases from October 21",
-  "summary": "J&K High Court's Ladakh bench to be inaugurated soon; will hear cases from October 21",
-  "content": [
-   "J&K High Court's Ladakh bench to be inaugurated soon; will hear cases from October 21"
-  ],
-  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
-  "keyFacts": [],
-  "examinerAngles": [
-   "Which Article / Act / provision is involved?",
-   "Bench strength and which judge authored the judgment?",
-   "Which earlier case was relied on, distinguished or overruled?",
-   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
-  ],
-  "category": "legal",
-  "tags": [
-   "High Court"
-  ],
-  "published_at": "2026-10-15T10:03:26.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "Bar & Bench",
-    "url": "https://www.barandbench.com/news/litigation/jk-high-courts-ladakh-bench-to-be-inaugurated-soon-will-hear-cases-from-october-21",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 6,
-  "exam": {
-   "nlsat": 7,
-   "aiat": 7,
-   "ssc": 6
-  },
-  "legal_relevance": 10,
-  "national_importance": 7,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 61.8
- },
- {
-  "id": "3bec524f9d4d",
-  "title": "Delhi High Court stops FSSAI from acting against Emami for using \"Healthy & Tasty\" mark for edible oils",
-  "summary": "Delhi High Court stops FSSAI from acting against Emami for using \"Healthy & Tasty\" mark for edible oils",
-  "content": [
-   "Delhi High Court stops FSSAI from acting against Emami for using \"Healthy & Tasty\" mark for edible oils"
-  ],
-  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
-  "keyFacts": [],
-  "examinerAngles": [
-   "Which Article / Act / provision is involved?",
-   "Bench strength and which judge authored the judgment?",
-   "Which earlier case was relied on, distinguished or overruled?",
-   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
-  ],
-  "category": "legal",
-  "tags": [
-   "High Court"
-  ],
-  "published_at": "2026-10-15T10:02:17.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "Bar & Bench",
-    "url": "https://www.barandbench.com/news/delhi-high-court-stops-fssai-from-acting-against-emami-for-using-healthy-tasty-mark-for-edible-oils",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 6,
-  "exam": {
-   "nlsat": 7,
-   "aiat": 7,
-   "ssc": 6
-  },
-  "legal_relevance": 10,
-  "national_importance": 7,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 61.8
- },
- {
-  "id": "2edc3efbe5f1",
-  "title": "2026 LiveLaw (SC) 1056 | | ALLADIN CHARITIES AND ZAKAT WAKF VERSUS MOHAMMED SALEEM ALIAS MOHD. WAJID ALI...",
-  "summary": "2026 LiveLaw (SC) 1056 | | ALLADIN CHARITIES AND ZAKAT WAKF VERSUS MOHAMMED SALEEM ALIAS MOHD. WAJID ALI... Live Law",
-  "content": [
-   "2026 LiveLaw (SC) 1056 | | ALLADIN CHARITIES AND ZAKAT WAKF VERSUS MOHAMMED SALEEM ALIAS MOHD. WAJID ALI... Live Law"
-  ],
-  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
-  "keyFacts": [
-   "2026 LiveLaw (SC) 1056 | | ALLADIN CHARITIES AND ZAKAT WAKF VERSUS MOHAMMED SALEEM ALIAS MOHD."
-  ],
-  "examinerAngles": [
-   "Which Article / Act / provision is involved?",
-   "Bench strength and which judge authored the judgment?",
-   "Which earlier case was relied on, distinguished or overruled?",
-   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
-  ],
-  "category": "legal",
-  "tags": [
-   "legal"
-  ],
-  "published_at": "2026-10-15T10:02:09.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "Live Law",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTU52aHdXUE1YbFFIcHYwRlU4UzFiQUxhbU1zQWY1V3JwenotYUF0dXBPV2Q2RWVoYWxqYVJLcDFYVUJsTUFzREw2eGJqVzlFbGp6d19BUW9pS2lhdW80VmVmSklydHFaU1N3MU0tZzdGWjlsbDJhZ0xwbG83cmJ4LXA5dnR3NkRqVVlyVkQ3MXNaM0U4WFFNQjJUZ0c5aGxHWXJwdWk4dzZvUVJaZGdnZ1lCUElyWmFyUnBKWnRsMkpMbmF1eFZnU3JzYVA2Y0Q3MlItaEhRVjJKVExGWGFxUnE3RGZiTm_SAewBQVVfeXFMT1FDU2NFamxJUzEtRm8tQXMxSHlvbUhjLUJ1a2JxS0dvY0lBWjRtQVlTemY0WENNVzNmZDN2cm9ZQmoxWXVkSnZQUWw4T0dVUGFWWHF5em9UMlY3LVdoNlB6cnNXSXpBbzRFNXNjMEN0RGVMTTloVnpWZWtLUDM3TXZqUlU0ZUZXbUd5UWJvV3dhN1EyUWpEOEtqSHdqX2p0N3VjR01ZMVpwMXJSY3NjVUxmRHc1emhieEtPYzlYOFBOZGNpdTFiRjExMGpsS0NqdXhLemo2ck5wYThQcVBwN1JKNDRtel9FVFhmR0I?oc=5",
-    "quality": 5
-   }
-  ],
-  "source_quality": 5,
-  "relevance_score": 6,
-  "exam": {
-   "nlsat": 7,
-   "aiat": 7,
-   "ssc": 6
-  },
-  "legal_relevance": 10,
-  "national_importance": 7,
-  "mcq_value": 8,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": false,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 59.3
- },
- {
-  "id": "1ac88e91e2b4",
-  "title": "How hackers overheated French supermarket fridges — and the lessons for India",
-  "summary": "How hackers overheated French supermarket fridges — and the lessons for India The Indian Express",
-  "content": [
-   "How hackers overheated French supermarket fridges — and the lessons for India The Indian Express"
-  ],
-  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
-  "keyFacts": [
-   "How hackers overheated French supermarket fridges — and the lessons for India The Indian Express"
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "national",
-  "tags": [
-   "national"
-  ],
-  "published_at": "2026-10-15T10:00:37.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Indian Express",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTFVHTks4dWltR05CNFVFQVNoT0ltajVzc1oxU0I2QWFpTWpIMDVMZm5RWjQxSm4xM2tnQWxZcmRFaHQzVVpxNUFfbHBOQnhsNy1OaC1kdGdaQWh5XzhRSmFrcmxGRUVoSHFNSEhrUW0xMnRvR1VOOVBYeWl1bEZVN2hXaDV1dDIyT0lFRjN6NWNQWU50UW5lQmNzZnFfRVlYQTZWSzlKWkdxdWhlM01jRlN1WHZ0cm9pdV9wMkpFVGtIMm16eXFuQ2ZWc3Z4TzdseFpON2RxZEVUcUx5d2lNUtIB5wFBVV95cUxPblNxZFRvTFhnMnpOTE5kLVJwQmkzVDMxSHExbllEcW5Nam1iTnZUVC1URmhmYnFXMzZINVNselVRQ2Q5YWNqUXMtMElJSXJYZWNkVExoWnBUNG9tbTF6RFFYZ1pYUlVFRTV1TzQxSFpscmVhSlRzWXY3RGs0bGZjSGM5QVc4ZU5XN1hLeDFzRWpocDNmc2NweUcwcy02TlN0R3pnclR4ZHdadWhqNzBmX25EbkZMTnVxN0UxaVJSMzhOck5DNjlXdG5nZ2RLNUloM2tvV2h2TEdRSzJkc3JNNVRxWGxXZVU?oc=5",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 4,
-  "exam": {
-   "nlsat": 4,
-   "aiat": 3,
-   "ssc": 4
-  },
-  "legal_relevance": 2,
-  "national_importance": 6,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 42.3
- },
- {
-  "id": "21de117ed506",
-  "title": "In a letter to CJI, Bar Council of Delhi condemns unsubstantiated personal attacks on Judges, urges Bar members and citizens to uphold judicial dignity",
-  "summary": "The Bar Council of Delhi stated that uncorroborated and sensational allegations made without concrete evidence can create unjustified prejudice, hinder the regular functioning of the justice delivery system and lower the dignity of courts in the eyes of the public. The post In a letter to CJI, Bar Council of Delhi condemns unsubstantiated personal attacks on Judges, urges Bar members and citizens to uphold judicial dignity appeared first on SCC Times.",
-  "content": [
-   "The Bar Council of Delhi stated that uncorroborated and sensational allegations made without concrete evidence can create unjustified prejudice, hinder the regular functioning of the justice delivery system and lower the dignity of courts in the eyes of the public. The post In a letter to CJI, Bar Council of Delhi condemns unsubstantiated personal attacks on Judges, urges Bar members and citizens to uphold judicial dignity appeared first on SCC Times."
-  ],
-  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
-  "keyFacts": [
-   "The Bar Council of Delhi stated that uncorroborated and sensational allegations made without concrete evidence can create unjustified prejudice, hinder the regular functioning of the justice delivery system and lower the dignity of courts in the eyes of the public.",
-   "The post In a letter to CJI, Bar Council of Delhi condemns unsubstantiated personal attacks on Judges, urges Bar members and citizens to uphold judicial dignity appeared first on SCC Times."
-  ],
-  "examinerAngles": [
-   "Which Article / Act / provision is involved?",
-   "Bench strength and which judge authored the judgment?",
-   "Which earlier case was relied on, distinguished or overruled?",
-   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
-  ],
-  "category": "legal",
-  "tags": [
-   "legal"
-  ],
-  "published_at": "2026-10-15T10:00:34.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "SCC Online Blog",
-    "url": "https://www.scconline.com/blog/post/2026/10/15/bar-council-of-delhi-condemns-unsubstantiated-personal-attacks-on-judges/",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 6,
-  "exam": {
-   "nlsat": 7,
-   "aiat": 7,
-   "ssc": 6
-  },
-  "legal_relevance": 8,
-  "national_importance": 7,
-  "mcq_value": 6,
-  "staticLinks": [
-   "supreme-court"
-  ],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 58.8
- },
- {
-  "id": "62444742b226",
-  "title": "Who Wins, Who Loses: Decoding The Supreme Court's Yes Bank AT1 Verdict",
-  "summary": "Who Wins, Who Loses: Decoding The Supreme Court's Yes Bank AT1 Verdict NDTV Profit",
-  "content": [
-   "Who Wins, Who Loses: Decoding The Supreme Court's Yes Bank AT1 Verdict NDTV Profit"
-  ],
-  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
-  "keyFacts": [
-   "Who Wins, Who Loses: Decoding The Supreme Court's Yes Bank AT1 Verdict NDTV Profit"
-  ],
-  "examinerAngles": [
-   "Which Article / Act / provision is involved?",
-   "Bench strength and which judge authored the judgment?",
-   "Which earlier case was relied on, distinguished or overruled?",
-   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
-  ],
-  "category": "legal",
-  "tags": [
-   "Supreme Court"
-  ],
-  "published_at": "2026-10-15T09:58:49.000Z",
-  "created_at": "2026-10-15T16:57:13.617Z",
-  "sources": [
-   {
-    "name": "NDTV Profit",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMXpCVzJaSERtZ1JpTTROdHdlN2plbG9lbVduWUpGbGtVNGdiSm1rRHZkNGp0eE4yb2VZRFc4RXNJa1BKbkhkeWF0ajRRWk9scV8xampNVjByRnR1OTlXNE8zaDF1cFM3NmpONHlYUHUwem9fSUF2cHE1SktmT2dDdzVUTWJkMTVvUFhkVGtJZ0FfS1E1QXhoM3pEYWlzcHN0OURQdlJqVHRtX2E1RDhtZnBR0gG6AUFVX3lxTE80SlJScUx1cFctNDNLOUJkOTNiNUstaGhKdlJuSTFqNE5zeVdKVHZuZWJnRXZUSGNCaVRDLXZpNDNOZDl3MXVlWVVfWm9xelljMnZydnNiSXlxSV93MkdBN3pKaGNpcXl2U0pxbWpTS1BvWmhselR4WnJEYkgxZlZDNlR3ZkpBeWtyQ2Nzd3IyWUROaVgtdHNoVzJPMWJyS294Q01YakhiU1FtakM0YXd1NUI0UGpJRFJodw?oc=5",
-    "quality": 7
-   }
-  ],
-  "source_quality": 7,
-  "relevance_score": 8,
-  "exam": {
-   "nlsat": 9,
-   "aiat": 9,
-   "ssc": 8
-  },
-  "legal_relevance": 10,
-  "national_importance": 9,
-  "mcq_value": 6,
-  "staticLinks": [
-   "supreme-court"
-  ],
-  "legalLinks": [],
-  "verified": false,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 69.3
- },
- {
-  "id": "22b539efb7d8",
-  "title": "‘In recorded history, Ladakh was never a part of China’: Ladakh leaders reject China’s recent statement",
-  "summary": "Chinese Foreign Ministry said earlier that China has never recognised Ladakh",
-  "content": [
-   "Chinese Foreign Ministry said earlier that China has never recognised Ladakh"
-  ],
-  "whyMatters": "This item may be tested through the names, places, numbers and institutions it mentions. Verify details at the original source.",
-  "keyFacts": [
-   "Chinese Foreign Ministry said earlier that China has never recognised Ladakh"
-  ],
-  "examinerAngles": [
-   "Which person / place / institution / number can be asked?",
-   "What is the static-GK link?"
-  ],
-  "category": "national",
-  "tags": [
-   "national"
-  ],
-  "published_at": "2026-10-15T09:57:10.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/news/national/ladakh/in-recorded-history-ladakh-was-never-a-part-of-china-ladakh-leaders-reject-chinas-recent-statement/article71587252.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 4,
-  "exam": {
-   "nlsat": 4,
-   "aiat": 3,
-   "ssc": 4
-  },
-  "legal_relevance": 2,
-  "national_importance": 6,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 42.3
- },
- {
-  "id": "8b81581f03b4",
-  "title": "Stories of women trainees who made their mark at National Police Academy",
-  "summary": "Stories of women trainees who made their mark at National Police Academy",
-  "content": [
-   "Stories of women trainees who made their mark at National Police Academy"
-  ],
-  "whyMatters": "Questions typically ask which countries/organisations are involved, headquarters, founding years and India’s connection.",
-  "keyFacts": [],
-  "examinerAngles": [
-   "Where is the HQ of the organisation / which countries are involved?",
-   "What is India’s connection or stand?",
-   "When was the agreement / grouping formed?"
-  ],
-  "category": "international",
-  "tags": [
-   "international"
-  ],
-  "published_at": "2026-10-15T09:56:23.000Z",
-  "created_at": "2026-10-15T11:23:35.390Z",
-  "sources": [
-   {
-    "name": "The Hindu",
-    "url": "https://www.thehindu.com/news/national/telangana/stories-of-women-trainees-who-made-their-mark-at-national-police-academy/article71587125.ece",
-    "quality": 8
-   }
-  ],
-  "source_quality": 8,
-  "relevance_score": 5,
-  "exam": {
-   "nlsat": 5,
-   "aiat": 4,
-   "ssc": 5
-  },
-  "legal_relevance": 2,
-  "national_importance": 6,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": true,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 45.3
- },
- {
-  "id": "528f165bbca2",
-  "title": "Madras High Court Slams State For Denying RSS March Permission Citing Mosques On Route, Says 'Don't Give...",
-  "summary": "Madras High Court Slams State For Denying RSS March Permission Citing Mosques On Route, Says 'Don't Give... Live Law",
-  "content": [
-   "Madras High Court Slams State For Denying RSS March Permission Citing Mosques On Route, Says 'Don't Give... Live Law"
-  ],
-  "whyMatters": "Judgments, statutes and constitutional provisions are the most testable current-affairs area for law entrance exams. Note the court/bench, the provision involved and the principle laid down.",
-  "keyFacts": [
-   "Madras High Court Slams State For Denying RSS March Permission Citing Mosques On Route, Says 'Don't Give..."
-  ],
-  "examinerAngles": [
-   "Which Article / Act / provision is involved?",
-   "Bench strength and which judge authored the judgment?",
-   "Which earlier case was relied on, distinguished or overruled?",
-   "Which legal doctrine (basic structure, proportionality, etc.) applies?"
-  ],
-  "category": "legal",
-  "tags": [
-   "High Court"
-  ],
-  "published_at": "2026-10-15T09:56:02.000Z",
-  "created_at": "2026-10-16T11:18:27.975Z",
-  "sources": [
-   {
-    "name": "Live Law",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNDVDOElJNzNmcWZubjFGeXBXZW85NzVpYmtsT0RHRlozWHBZQUt2UzFTYnA2SUNqZUMtX05ELU8yVFNyaG9DWnQ0a3pqSWFkdllaQjcyU3FIbVppX0JzNWlHRW93Z2dwYk5OX3lFMlVmdVFxb3FmXzZmajFUTFQ3MjFHbDlXbzZrWWlZZ0hKZ0ZxVmtoOXB0ejhyZjFMcFZDTHh2VmxLd0I1ejg5UEc0dlBsYW03V3dIYVpsVWRRai02VTQ1S3ZWOFBpZGRIdlFyRjVzS0VB0gHbAUFVX3lxTE9SVTQ0ZFFPMHA4cW1FeFZCWlFBWF9Jd0x3R0ptOTcxR3hSUEVwYVVENEVNcWhWMU5SR0JYR3UxQjJNQUEwNVVoRFNyWFdzTGp6aXZ2RFNSMVBVcjVWNDVMVTFlWXMyUkI5cjZDZFB2dGY3cC10emEtOWZiVmNDbGNSMUlNTk5qTjVzU0c4djJub0IxM2g0WGg0NGlLUFA2OFJway1jRkZrQzlRYmFnbzA0VU5mYWU5clNuZ2t1aDktdjhSNm5FVWs0X05KUzFSVUtWcTJJbnpLejRocw?oc=5",
-    "quality": 5
-   }
-  ],
-  "source_quality": 5,
-  "relevance_score": 6,
-  "exam": {
-   "nlsat": 7,
-   "aiat": 7,
-   "ssc": 6
-  },
-  "legal_relevance": 10,
-  "national_importance": 7,
-  "mcq_value": 6,
-  "staticLinks": [],
-  "legalLinks": [],
-  "verified": false,
-  "ai_generated": false,
-  "is_demo": false,
-  "priority_score": 57.3
  }
 ]
