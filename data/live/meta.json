@@ -1,9 +1,9 @@
 {
- "last_fetch_at": "2026-11-15T01:00:34.966Z",
+ "last_fetch_at": "2026-11-15T10:46:42.319Z",
  "failed_sources": [
   "LiveLaw"
  ],
- "fetched": 663,
- "added": 75,
- "merged": 2
+ "fetched": 643,
+ "added": 190,
+ "merged": 10
 }
